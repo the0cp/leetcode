@@ -100,6 +100,7 @@ The list is sorted by problem number.
 - [2577. Minimum Time to Visit a Cell](src/2577.Minimum-Time-to-Visit-a-Cell.cpp)
 - [2593. Find Score of an Array After Marking All Elements](src/2593.Find-Score-of-an-Array-After-Marking-All-Elements.cpp)
 - [2657. Find the Prefix Common Array of Two Arrays](src/2657.Find-the-Prefix-Common-Array-of-Two-Arrays.cpp)
+- [2683. Neighboring Bitwise XOR](src/2683.Neighboring-Bitwise-XOR.cpp)
 - [2762. Continuous Subarrays](src/2762.Continuous-Subarrays.cpp)
 - [2779. Maximum Beauty of an Array After Applying Operation](src/2779.Maximum-Beauty-of-an-Array-After-Applying-Operation.cpp)
 - [2825. Make String a Subsequence Using Cyclic Increments](src/2825.Make-String-a-Subsequence-Using-Cyclic-Increments.cpp)
