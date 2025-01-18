@@ -62,6 +62,7 @@ The list is sorted by problem number.
 - [1072. Flip For Maximum Equal Rows](src/1072.Flip-For-Maximum-Equal-Rows.cpp)
 - [1137. N th Tribonacci Number](src/1137.N-th-Tribonacci-Number.cpp)
 - [1346. Check If N and Its Double Exist](src/1346.Check-If-N-and-Its-Double-Exist.cpp)
+- [1368. Minimum Cost to Make at Least One Valid Path in a Grid](src/1368.Minimum-Cost-to-Make-at-Least-One-Valid-Path-in-a-Grid.cpp)
 - [1400. Construct K Palindrome Strings](src/1400.Construct-K-Palindrome-Strings.cpp)
 - [1408. String Matching in an Array](src/1408.String-Matching-in-an-Array.cpp)
 - [1422. Maximum Score After Splitting a String](src/1422.Maximum-Score-After-Splitting-a-String.cpp)
