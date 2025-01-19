@@ -15,12 +15,13 @@ def get_title_from_filename(filename):
     return None, None
 
 def main():
+    if not os.path.exists(folder_path):
+        os.makedirs(folder_path)
     files = []
     for filename in os.listdir(folder_path):
-        if filename.endswith(".cpp"):
-            number, title = get_title_from_filename(filename)
-            if number is not None:
-                files.append((number, title, filename))
+        number, title = get_title_from_filename(filename)
+        if number is not None:
+            files.append((number, title, filename))
     files.sort()
     
     with open(output_file, "w") as f:
