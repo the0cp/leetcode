@@ -38,6 +38,7 @@ The list is sorted by problem number.
 - [322. Coin Change](src/322.Coin-Change.cpp)
 - [343. Integer Break](src/343.Integer-Break.cpp)
 - [377. Combination Sum 4](src/377.Combination-Sum-4.cpp)
+- [407. Trapping Rain Water II](src/407.Trapping-Rain-Water-II.cpp)
 - [415. Add Strings](src/415.Add-Strings.cpp)
 - [455. Assign Cookies](src/455.Assign-Cookies.cpp)
 - [474. Ones and Zeroes](src/474.Ones-and-Zeroes.cpp)
