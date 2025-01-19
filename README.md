@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-C++ source code of solved LeetCode problems.
+C++/Shell/SQL source code of solved LeetCode problems.
 
 ## List
 
