@@ -12,6 +12,7 @@ The list is sorted by problem number.
 
 - [1. Two Sum](src/1.Two-Sum.cpp)
 - [5. Longest Palindromic Substring](src/5.Longest-Palindromic-Substring.cpp)
+- [8. String to Integer (atoi)](src/8.String-to-Integer-(atoi).cpp)
 - [9. Palindrome Number](src/9.Palindrome-Number.cpp)
 - [37. Sudoku Solver](src/37.Sudoku-Solver.cpp)
 - [42. Trapping Rain Water](src/42.Trapping-Rain-Water.cpp)
