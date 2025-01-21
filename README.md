@@ -97,6 +97,7 @@ The list is sorted by problem number.
 - [1930. Unique Length 3 Palindromic Subsequences](src/1930.Unique-Length-3-Palindromic-Subsequences.cpp)
 - [1934. Confirmation Rate](src/1934.Confirmation-Rate.sql)
 - [1975. Maximum Matrix Sum](src/1975.Maximum-Matrix-Sum.cpp)
+- [2017. Grid Game](src/2017.Grid-Game.cpp)
 - [2054. Two Best Non Overlapping Events](src/2054.Two-Best-Non-Overlapping-Events.cpp)
 - [2097. Valid Arrangement of Pairs](src/2097.Valid-Arrangement-of-Pairs.cpp)
 - [2109. Adding Spaces to a String](src/2109.Adding-Spaces-to-a-String.cpp)
