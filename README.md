@@ -91,6 +91,7 @@ The list is sorted by problem number.
 - [1683. Invalid Tweets](src/1683.Invalid-Tweets.sql)
 - [1757. Recyclable and Low Fat Products](src/1757.Recyclable-and-Low-Fat-Products.sql)
 - [1760. Minimum Limit of Balls in a Bag](src/1760.Minimum-Limit-of-Balls-in-a-Bag.cpp)
+- [1765. Map of Highest Peak](src/1765.Map-of-Highest-Peak.cpp)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](src/1769.Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box.cpp)
 - [1792. Maximum Average Pass Ratio](src/1792.Maximum-Average-Pass-Ratio.cpp)
 - [1861. Rotating the Box](src/1861.Rotating-the-Box.cpp)
