@@ -68,6 +68,7 @@ The list is sorted by problem number.
 - [769. Max Chunks To Make Sorted](src/769.Max-Chunks-To-Make-Sorted.cpp)
 - [773. Sliding Puzzle](src/773.Sliding-Puzzle.cpp)
 - [790. Domino and Tromino Tiling](src/790.Domino-and-Tromino-Tiling.cpp)
+- [802. Find Eventual Safe States](src/802.Find-Eventual-Safe-States.cpp)
 - [916. Word Subsets](src/916.Word-Subsets.cpp)
 - [931. Minimum Falling Path Sum](src/931.Minimum-Falling-Path-Sum.cpp)
 - [983. Minimum Cost For Tickets](src/983.Minimum-Cost-For-Tickets.cpp)
