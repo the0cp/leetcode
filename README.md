@@ -105,6 +105,7 @@ The list is sorted by problem number.
 - [2097. Valid Arrangement of Pairs](src/2097.Valid-Arrangement-of-Pairs.cpp)
 - [2109. Adding Spaces to a String](src/2109.Adding-Spaces-to-a-String.cpp)
 - [2116. Check if a Parentheses String Can Be Valid](src/2116.Check-if-a-Parentheses-String-Can-Be-Valid.cpp)
+- [2127. Maximum Employees to Be Invited to a Meeting](src/2127.Maximum-Employees-to-Be-Invited-to-a-Meeting.cpp)
 - [2140. Solving Questions With Brainpower](src/2140.Solving-Questions-With-Brainpower.cpp)
 - [2182. Construct String With Repeat Limit](src/2182.Construct-String-With-Repeat-Limit.cpp)
 - [2185. Counting Words With a Given Prefix](src/2185.Counting-Words-With-a-Given-Prefix.cpp)
