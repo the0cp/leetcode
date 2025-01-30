@@ -121,6 +121,7 @@ The list is sorted by problem number.
 - [2461. Maximum Sum of Distinct Subarrays](src/2461.Maximum-Sum-of-Distinct-Subarrays.cpp)
 - [2466. Count Ways To Build Good Strings](src/2466.Count-Ways-To-Build-Good-Strings.cpp)
 - [2471. Minimum Number of Operations to Sort a Binary Tree by Level](src/2471.Minimum-Number-of-Operations-to-Sort-a-Binary-Tree-by-Level.cpp)
+- [2493. Divide Nodes Into the Maximum Number of Groups](src/2493.Divide-Nodes-Into-the-Maximum-Number-of-Groups.cpp)
 - [2516. Take K of Each Character](src/2516.Take-K-of-Each-Character.cpp)
 - [2554. Maximum Number of Integers to Choose From a Range](src/2554.Maximum-Number-of-Integers-to-Choose-From-a-Range.cpp)
 - [2558. Take Gifts From the Richest Pile](src/2558.Take-Gifts-From-the-Richest-Pile.cpp)
