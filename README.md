@@ -40,6 +40,7 @@ The list is sorted by problem number.
 - [195. Tenth Lin](src/195.Tenth-Line.sh)
 - [197. Rising Temperature](src/197.Rising-Temperature.sql)
 - [198. House Robber](src/198.House-Robber.cpp)
+- [200. Number of Islands](src/200.Number-of-Islands.cpp)
 - [221. Maximal Square](src/221.Maximal-Square.cpp)
 - [279. Perfect Squares](src/279.Perfect-Squares.cpp)
 - [309. Best Time to Buy and Sell Stock with Cooldown](src/309.Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.cpp)
