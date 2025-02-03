@@ -144,6 +144,7 @@ The list is sorted by problem number.
 - [2948. Make Lexicographically Smallest Array by Swapping Elements](src/2948.Make-Lexicographically-Smallest-Array-by-Swapping-Elements.cpp)
 - [2981. Find Longest Special Substring That Occurs Thrice I](src/2981.Find-Longest-Special-Substring-That-Occurs-Thrice-I.cpp)
 - [3042. Count Prefix and Suffix Pairs I](src/3042.Count-Prefix-and-Suffix-Pairs-I.cpp)
+- [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](src/3105.Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray.cpp)
 - [3151. Special Array I](src/3151.Special-Array-I.cpp)
 - [3152. Special Array II](src/3152.Special-Array-II.cpp)
 - [3203. Find Minimum Diameter After Merging Two Trees](src/3203.Find-Minimum-Diameter-After-Merging-Two-Trees.cpp)
