@@ -99,6 +99,7 @@ The list is sorted by problem number.
 - [1760. Minimum Limit of Balls in a Bag](src/1760.Minimum-Limit-of-Balls-in-a-Bag.cpp)
 - [1765. Map of Highest Peak](src/1765.Map-of-Highest-Peak.cpp)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](src/1769.Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box.cpp)
+- [1790. Check if One String Swap Can Make Strings Equal](src/1790.Check-if-One-String-Swap-Can-Make-Strings-Equal.cpp)
 - [1792. Maximum Average Pass Ratio](src/1792.Maximum-Average-Pass-Ratio.cpp)
 - [1800. Maximum Ascending Subarray Sum](src/1800.Maximum-Ascending-Subarray-Sum.cpp)
 - [1861. Rotating the Box](src/1861.Rotating-the-Box.cpp)
