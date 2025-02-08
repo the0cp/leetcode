@@ -120,6 +120,7 @@ The list is sorted by problem number.
 - [2270. Number of Ways to Split Array](src/2270.Number-of-Ways-to-Split-Array.cpp)
 - [2290. Minimum Obstacle Removal](src/2290.Minimum-Obstacle-Removal.cpp)
 - [2337. Move Pieces to Obtain a String](src/2337.Move-Pieces-to-Obtain-a-String.cpp)
+- [2349. Design a Number Container System](src/2349.Design-a-Number-Container-System.cpp)
 - [2381. Shifting Letters II](src/2381.Shifting-Letters-II.cpp)
 - [2415. Reverse Odd Levels of Binary Tree](src/2415.Reverse-Odd-Levels-of-Binary-Tree.cpp)
 - [2425. Bitwise XOR of All Pairings](src/2425.Bitwise-XOR-of-All-Pairings.cpp)
