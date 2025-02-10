@@ -153,6 +153,7 @@ The list is sorted by problem number.
 - [3151. Special Array I](src/3151.Special-Array-I.cpp)
 - [3152. Special Array II](src/3152.Special-Array-II.cpp)
 - [3160. Find the Number of Distinct Colors Among the Balls](src/3160.Find-the-Number-of-Distinct-Colors-Among-the-Balls.cpp)
+- [3174. Clear Digits](src/3174.Clear-Digits.cpp)
 - [3203. Find Minimum Diameter After Merging Two Trees](src/3203.Find-Minimum-Diameter-After-Merging-Two-Trees.cpp)
 - [3223. Minimum Length of String After Operations](src/3223.Minimum-Length-of-String-After-Operations.cpp)
 - [3243. Shortest Distance After Road Addition Queries I](src/3243.Shortest-Distance-After-Road-Addition-Queries-I.cpp)
