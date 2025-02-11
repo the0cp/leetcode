@@ -104,6 +104,7 @@ The list is sorted by problem number.
 - [1792. Maximum Average Pass Ratio](src/1792.Maximum-Average-Pass-Ratio.cpp)
 - [1800. Maximum Ascending Subarray Sum](src/1800.Maximum-Ascending-Subarray-Sum.cpp)
 - [1861. Rotating the Box](src/1861.Rotating-the-Box.cpp)
+- [1910. Remove All Occurrences of a Substring](src/1910.Remove-All-Occurrences-of-a-Substring.cpp)
 - [1930. Unique Length 3 Palindromic Subsequences](src/1930.Unique-Length-3-Palindromic-Subsequences.cpp)
 - [1934. Confirmation Rate](src/1934.Confirmation-Rate.sql)
 - [1975. Maximum Matrix Sum](src/1975.Maximum-Matrix-Sum.cpp)
