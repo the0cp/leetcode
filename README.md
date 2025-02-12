@@ -121,6 +121,7 @@ The list is sorted by problem number.
 - [2270. Number of Ways to Split Array](src/2270.Number-of-Ways-to-Split-Array.cpp)
 - [2290. Minimum Obstacle Removal](src/2290.Minimum-Obstacle-Removal.cpp)
 - [2337. Move Pieces to Obtain a String](src/2337.Move-Pieces-to-Obtain-a-String.cpp)
+- [2342. Max Sum of a Pair With Equal Sum of Digits](src/2342.Max-Sum-of-a-Pair-With-Equal-Sum-of-Digits.cpp)
 - [2349. Design a Number Container System](src/2349.Design-a-Number-Container-System.cpp)
 - [2364. Count Number of Bad Pairs](src/2364.Count-Number-of-Bad-Pairs.cpp)
 - [2381. Shifting Letters II](src/2381.Shifting-Letters-II.cpp)
