@@ -77,6 +77,7 @@ The list is sorted by problem number.
 - [983. Minimum Cost For Tickets](src/983.Minimum-Cost-For-Tickets.cpp)
 - [1014. Best Sightseeing Pair](src/1014.Best-Sightseeing-Pair.cpp)
 - [1068. Product Sales Analysis I](src/1068.Product-Sales-Analysis-I.sql)
+- [1070. Product Sales Analysis III](src/1070.Product-Sales-Analysis-III.sql)
 - [1072. Flip For Maximum Equal Rows](src/1072.Flip-For-Maximum-Equal-Rows.cpp)
 - [1137. N th Tribonacci Number](src/1137.N-th-Tribonacci-Number.cpp)
 - [1148. Article Views I](src/1148.Article-Views-I.sql)
