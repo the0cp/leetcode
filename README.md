@@ -60,6 +60,7 @@ The list is sorted by problem number.
 - [583. Delete Operation for Two Strings](src/583.Delete-Operation-for-Two-Strings.cpp)
 - [584. Find Customer Referee](src/584.Find-Customer-Referee.sql)
 - [595. Big Countries](src/595.Big-Countries.sql)
+- [620. Not Boring Movies](src/620.Not-Boring-Movies.sql)
 - [684. Redundant Connection](src/684.Redundant-Connection.cpp)
 - [689. Maximum Sum of 3 Non Overlapping Subarrays](src/689.Maximum-Sum-of-3-Non-Overlapping-Subarrays.cpp)
 - [712. Minimum ASCII Delete Sum for Two Strings](src/712.Minimum-ASCII-Delete-Sum-for-Two-Strings.cpp)
