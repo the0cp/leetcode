@@ -83,6 +83,7 @@ The list is sorted by problem number.
 - [1148. Article Views I](src/1148.Article-Views-I.sql)
 - [1267. Count Servers that Communicate](src/1267.Count-Servers-that-Communicate.cpp)
 - [1346. Check If N and Its Double Exist](src/1346.Check-If-N-and-Its-Double-Exist.cpp)
+- [1352. Product of the Last K Numbers](src/1352.Product-of-the-Last-K-Numbers.cpp)
 - [1368. Minimum Cost to Make at Least One Valid Path in a Grid](src/1368.Minimum-Cost-to-Make-at-Least-One-Valid-Path-in-a-Grid.cpp)
 - [1378. Replace Employee ID With The Unique Identifier](src/1378.Replace-Employee-ID-With-The-Unique-Identifier.sql)
 - [1400. Construct K Palindrome Strings](src/1400.Construct-K-Palindrome-Strings.cpp)
