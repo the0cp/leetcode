@@ -146,6 +146,7 @@ The list is sorted by problem number.
 - [2658. Maximum Number of Fish in a Grid](src/2658.Maximum-Number-of-Fish-in-a-Grid.cpp)
 - [2661. First Completely Painted Row or Column](src/2661.First-Completely-Painted-Row-or-Column.cpp)
 - [2683. Neighboring Bitwise XOR](src/2683.Neighboring-Bitwise-XOR.cpp)
+- [2698. Find the Punishment Number of an Integer](src/2698.Find-the-Punishment-Number-of-an-Integer.cpp)
 - [2762. Continuous Subarrays](src/2762.Continuous-Subarrays.cpp)
 - [2779. Maximum Beauty of an Array After Applying Operation](src/2779.Maximum-Beauty-of-an-Array-After-Applying-Operation.cpp)
 - [2825. Make String a Subsequence Using Cyclic Increments](src/2825.Make-String-a-Subsequence-Using-Cyclic-Increments.cpp)
