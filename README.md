@@ -43,6 +43,7 @@ The list is sorted by problem number.
 - [200. Number of Islands](src/200.Number-of-Islands.cpp)
 - [221. Maximal Square](src/221.Maximal-Square.cpp)
 - [279. Perfect Squares](src/279.Perfect-Squares.cpp)
+- [300. Longest Increasing Subsequence](src/300.Longest-Increasing-Subsequence.cpp)
 - [309. Best Time to Buy and Sell Stock with Cooldown](src/309.Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.cpp)
 - [322. Coin Change](src/322.Coin-Change.cpp)
 - [343. Integer Break](src/343.Integer-Break.cpp)
