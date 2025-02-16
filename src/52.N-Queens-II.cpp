@@ -21,7 +21,7 @@ private:
         }
         return true;
     }
-    void backtracing(int n, int row, vector<string> &chessboard){
+    void backtracking(int n, int row, vector<string> &chessboard){
         if(row==n){
             sum++;
             return;
@@ -29,7 +29,7 @@ private:
         for(int col=0; col<n; col++){
             if(isValid(row, col, chessboard, n)){
                 chessboard[row][col]='Q';
-                backtracing(n, row+1, chessboard);
+                backtracking(n, row+1, chessboard);
                 chessboard[row][col]='.';
             }
         }
@@ -37,7 +37,7 @@ private:
 public:
     int totalNQueens(int n) {
         vector<string> chessboard(n, string(n,'.'));
-        backtracing(n, 0, chessboard);
+        backtracking(n, 0, chessboard);
         return sum;
     }
 };

@@ -14,14 +14,14 @@ private:
         }
         return true;
     }
-    bool backtracing(vector<vector<char>>& board) {
+    bool backtracking(vector<vector<char>>& board) {
         for(int i=0; i<board.size(); i++){
             for(int j=0; j<board[0].size(); j++){
                 if(board[i][j]!='.')    continue;
                 for(int k='1'; k<='9'; k++){
                     if(isValid(board,i,j,k)){
                         board[i][j]=k;
-                        if(backtracing(board)) return true;
+                        if(backtracking(board)) return true;
                         board[i][j]='.';
                     }
                 }
@@ -32,6 +32,6 @@ private:
     }
 public:
     void solveSudoku(vector<vector<char>>& board) {
-        backtracing(board);
+        backtracking(board);
     }
 };
