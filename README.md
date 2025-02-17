@@ -47,6 +47,7 @@ The list is sorted by problem number.
 - [309. Best Time to Buy and Sell Stock with Cooldown](src/309.Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.cpp)
 - [322. Coin Change](src/322.Coin-Change.cpp)
 - [343. Integer Break](src/343.Integer-Break.cpp)
+- [354. Russian Doll Envelopes](src/354.Russian-Doll-Envelopes.cpp)
 - [407. Trapping Rain Water II](src/407.Trapping-Rain-Water-II.cpp)
 - [415. Add Strings](src/415.Add-Strings.cpp)
 - [455. Assign Cookies](src/455.Assign-Cookies.cpp)
