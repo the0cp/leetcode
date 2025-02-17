@@ -80,6 +80,7 @@ The list is sorted by problem number.
 - [1068. Product Sales Analysis I](src/1068.Product-Sales-Analysis-I.sql)
 - [1070. Product Sales Analysis III](src/1070.Product-Sales-Analysis-III.sql)
 - [1072. Flip For Maximum Equal Rows](src/1072.Flip-For-Maximum-Equal-Rows.cpp)
+- [1079. Letter Tile Possibilities](src/1079.Letter-Tile-Possibilities.cpp)
 - [1137. N th Tribonacci Number](src/1137.N-th-Tribonacci-Number.cpp)
 - [1148. Article Views I](src/1148.Article-Views-I.sql)
 - [1267. Count Servers that Communicate](src/1267.Count-Servers-that-Communicate.cpp)
