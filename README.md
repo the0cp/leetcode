@@ -119,6 +119,7 @@ The list is sorted by problem number.
 - [1910. Remove All Occurrences of a Substring](src/1910.Remove-All-Occurrences-of-a-Substring.cpp)
 - [1930. Unique Length 3 Palindromic Subsequences](src/1930.Unique-Length-3-Palindromic-Subsequences.cpp)
 - [1934. Confirmation Rate](src/1934.Confirmation-Rate.sql)
+- [1964. Find the Longest Valid Obstacle Course at Each Position](src/1964.Find-the-Longest-Valid-Obstacle-Course-at-Each-Position.cpp)
 - [1975. Maximum Matrix Sum](src/1975.Maximum-Matrix-Sum.cpp)
 - [2017. Grid Game](src/2017.Grid-Game.cpp)
 - [2054. Two Best Non Overlapping Events](src/2054.Two-Best-Non-Overlapping-Events.cpp)
