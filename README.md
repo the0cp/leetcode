@@ -135,6 +135,7 @@ The list is sorted by problem number.
 - [2349. Design a Number Container System](src/2349.Design-a-Number-Container-System.cpp)
 - [2356. Number of Unique Subjects Taught by Each Teacher](src/2356.Number-of-Unique-Subjects-Taught-by-Each-Teacher.sql)
 - [2364. Count Number of Bad Pairs](src/2364.Count-Number-of-Bad-Pairs.cpp)
+- [2375. Construct Smallest Number From DI String](src/2375.Construct-Smallest-Number-From-DI-String.cpp)
 - [2381. Shifting Letters II](src/2381.Shifting-Letters-II.cpp)
 - [2415. Reverse Odd Levels of Binary Tree](src/2415.Reverse-Odd-Levels-of-Binary-Tree.cpp)
 - [2425. Bitwise XOR of All Pairings](src/2425.Bitwise-XOR-of-All-Pairings.cpp)
