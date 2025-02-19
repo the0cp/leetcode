@@ -96,6 +96,7 @@ The list is sorted by problem number.
 - [1378. Replace Employee ID With The Unique Identifier](src/1378.Replace-Employee-ID-With-The-Unique-Identifier.sql)
 - [1400. Construct K Palindrome Strings](src/1400.Construct-K-Palindrome-Strings.cpp)
 - [1408. String Matching in an Array](src/1408.String-Matching-in-an-Array.cpp)
+- [1415. The kth Lexicographical String of All Happy Strings of Length n](src/1415.The-kth-Lexicographical-String-of-All-Happy-Strings-of-Length-n.cpp)
 - [1422. Maximum Score After Splitting a String](src/1422.Maximum-Score-After-Splitting-a-String.cpp)
 - [1455. Check If a Word Occurs As a Prefix](src/1455.Check-If-a-Word-Occurs-As-a-Prefix.cpp)
 - [1462. Course Schedule IV](src/1462.Course-Schedule-IV.cpp)
