@@ -31,6 +31,7 @@ The list is sorted by problem number.
 - [120. Triangle](src/120.Triangle.cpp)
 - [121. Buy and Sell Stock](src/121.Buy-and-Sell-Stock.cpp)
 - [123. Best Time to Buy and Sell Stock 3](src/123.Best-Time-to-Buy-and-Sell-Stock-3.cpp)
+- [124. Binary Tree Maximum Path Sum](src/124.Binary-Tree-Maximum-Path-Sum.cpp)
 - [135. Candy](src/135.Candy.cpp)
 - [139. Word Break](src/139.Word-Break.cpp)
 - [144. Binary Tree Preorder Traversal](src/144.Binary-Tree-Preorder-Traversal.cpp)
