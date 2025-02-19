@@ -25,6 +25,7 @@ The list is sorted by problem number.
 - [70. Climbing Stairs](src/70.Climbing-Stairs.cpp)
 - [72. Edit Distance](src/72.Edit-Distance.cpp)
 - [91. Decode Ways](src/91.Decode-Ways.cpp)
+- [95. Unique Binary Search Trees II](src/95.Unique-Binary-Search-Trees-II.cpp)
 - [96. Unique Binary Search Trees](src/96.Unique-Binary-Search-Trees.cpp)
 - [115. Distinct Subsequences](src/115.Distinct-Subsequences.cpp)
 - [120. Triangle](src/120.Triangle.cpp)
