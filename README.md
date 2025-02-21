@@ -93,6 +93,7 @@ The list is sorted by problem number.
 - [1143. Longest Common Subsequence](src/1143.Longest-Common-Subsequence.cpp)
 - [1148. Article Views I](src/1148.Article-Views-I.sql)
 - [1218. Longest Arithmetic Subsequence of Given Difference](src/1218.Longest-Arithmetic-Subsequence-of-Given-Difference.cpp)
+- [1261. Find Elements in a Contaminated Binary Tree](src/1261.Find-Elements-in-a-Contaminated-Binary-Tree.cpp)
 - [1267. Count Servers that Communicate](src/1267.Count-Servers-that-Communicate.cpp)
 - [1312. Minimum Insertion Steps to Make a String Palindrome](src/1312.Minimum-Insertion-Steps-to-Make-a-String-Palindrome.cpp)
 - [1346. Check If N and Its Double Exist](src/1346.Check-If-N-and-Its-Double-Exist.cpp)
