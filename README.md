@@ -79,6 +79,7 @@ The list is sorted by problem number.
 - [790. Domino and Tromino Tiling](src/790.Domino-and-Tromino-Tiling.cpp)
 - [802. Find Eventual Safe States](src/802.Find-Eventual-Safe-States.cpp)
 - [827. Making A Large Island](src/827.Making-A-Large-Island.cpp)
+- [889. Construct Binary Tree from Preorder and Postorder Traversal](src/889.Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal.cpp)
 - [916. Word Subsets](src/916.Word-Subsets.cpp)
 - [931. Minimum Falling Path Sum](src/931.Minimum-Falling-Path-Sum.cpp)
 - [983. Minimum Cost For Tickets](src/983.Minimum-Cost-For-Tickets.cpp)
