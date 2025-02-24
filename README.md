@@ -90,6 +90,7 @@ The list is sorted by problem number.
 - [1035. Uncrossed Lines](src/1035.Uncrossed-Lines.cpp)
 - [1068. Product Sales Analysis I](src/1068.Product-Sales-Analysis-I.sql)
 - [1070. Product Sales Analysis III](src/1070.Product-Sales-Analysis-III.sql)
+- [1071. Greatest Common Divisor of Strings](src/1071.Greatest-Common-Divisor-of-Strings.cpp)
 - [1072. Flip For Maximum Equal Rows](src/1072.Flip-For-Maximum-Equal-Rows.cpp)
 - [1079. Letter Tile Possibilities](src/1079.Letter-Tile-Possibilities.cpp)
 - [1137. N th Tribonacci Number](src/1137.N-th-Tribonacci-Number.cpp)
