@@ -136,6 +136,7 @@ The list is sorted by problem number.
 - [1718. Construct the Lexicographically Largest Valid Sequence](src/1718.Construct-the-Lexicographically-Largest-Valid-Sequence.cpp)
 - [1726. Tuple with Same Product](src/1726.Tuple-with-Same-Product.cpp)
 - [1732. Find the Highest Altitude](src/1732.Find-the-Highest-Altitude.cpp)
+- [1749. Maximum Absolute Sum of Any Subarray](src/1749.Maximum-Absolute-Sum-of-Any-Subarray.cpp)
 - [1752. Check if Array Is Sorted and Rotated](src/1752.Check-if-Array-Is-Sorted-and-Rotated.cpp)
 - [1757. Recyclable and Low Fat Products](src/1757.Recyclable-and-Low-Fat-Products.sql)
 - [1760. Minimum Limit of Balls in a Bag](src/1760.Minimum-Limit-of-Balls-in-a-Bag.cpp)
