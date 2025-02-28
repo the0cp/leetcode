@@ -108,6 +108,7 @@ The list is sorted by problem number.
 - [1071. Greatest Common Divisor of Strings](src/1071.Greatest-Common-Divisor-of-Strings.cpp)
 - [1072. Flip For Maximum Equal Rows](src/1072.Flip-For-Maximum-Equal-Rows.cpp)
 - [1079. Letter Tile Possibilities](src/1079.Letter-Tile-Possibilities.cpp)
+- [1092. Shortest Common Supersequence](src/1092.Shortest-Common-Supersequence.cpp)
 - [1137. N th Tribonacci Number](src/1137.N-th-Tribonacci-Number.cpp)
 - [1143. Longest Common Subsequence](src/1143.Longest-Common-Subsequence.cpp)
 - [1148. Article Views I](src/1148.Article-Views-I.sql)
