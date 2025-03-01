@@ -184,6 +184,7 @@ The list is sorted by problem number.
 - [2415. Reverse Odd Levels of Binary Tree](src/2415.Reverse-Odd-Levels-of-Binary-Tree.cpp)
 - [2425. Bitwise XOR of All Pairings](src/2425.Bitwise-XOR-of-All-Pairings.cpp)
 - [2429. Minimize XOR](src/2429.Minimize-XOR.cpp)
+- [2460. Apply Operations to an Array](src/2460.Apply-Operations-to-an-Array.cpp)
 - [2461. Maximum Sum of Distinct Subarrays](src/2461.Maximum-Sum-of-Distinct-Subarrays.cpp)
 - [2466. Count Ways To Build Good Strings](src/2466.Count-Ways-To-Build-Good-Strings.cpp)
 - [2467. Most Profitable Path in a Tree](src/2467.Most-Profitable-Path-in-a-Tree.cpp)
