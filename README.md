@@ -194,6 +194,7 @@ The list is sorted by problem number.
 - [2554. Maximum Number of Integers to Choose From a Range](src/2554.Maximum-Number-of-Integers-to-Choose-From-a-Range.cpp)
 - [2558. Take Gifts From the Richest Pile](src/2558.Take-Gifts-From-the-Richest-Pile.cpp)
 - [2559. Count Vowel Strings in Ranges](src/2559.Count-Vowel-Strings-in-Ranges.cpp)
+- [2570. Merge Two 2D Arrays by Summing Values](src/2570.Merge-Two-2D-Arrays-by-Summing-Values.cpp)
 - [2577. Minimum Time to Visit a Cell](src/2577.Minimum-Time-to-Visit-a-Cell.cpp)
 - [2593. Find Score of an Array After Marking All Elements](src/2593.Find-Score-of-an-Array-After-Marking-All-Elements.cpp)
 - [2657. Find the Prefix Common Array of Two Arrays](src/2657.Find-the-Prefix-Common-Array-of-Two-Arrays.cpp)
