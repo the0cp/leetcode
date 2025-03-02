@@ -223,5 +223,9 @@ The list is sorted by problem number.
 - [3264. Final Array State After K Multiplication Operations I](src/3264.Final-Array-State-After-K-Multiplication-Operations-I.cpp)
 - [3417. Zigzag Grid Traversal With Skip](src/3417.Zigzag-Grid-Traversal-With-Skip.cpp)
 - [3418. Maximum Amount of Money Robot Can Earn](src/3418.Maximum-Amount-of-Money-Robot-Can-Earn.cpp)
+- [3471. Find the Largest Almost Missing Integer](src/3471.Find-the-Largest-Almost-Missing-Integer.cpp)
+- [3472. Longest Palindromic Subsequence After at Most K Operations](src/3472.Longest-Palindromic-Subsequence-After-at-Most-K-Operations.cpp)
+- [3473. Sum of K Subarrays With Length at Least M](src/3473.Sum-of-K-Subarrays-With-Length-at-Least-M.cpp)
+- [3474. Lexicographically Smallest Generated String](src/3474.Lexicographically-Smallest-Generated-String.cpp)
 
 </details>
