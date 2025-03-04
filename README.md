@@ -149,6 +149,7 @@ The list is sorted by problem number.
 - [1765. Map of Highest Peak](src/1765.Map-of-Highest-Peak.cpp)
 - [1768. Merge Strings Alternately](src/1768.Merge-Strings-Alternately.cpp)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](src/1769.Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box.cpp)
+- [1780. Check if Number is a Sum of Powers of Three](src/1780.Check-if-Number-is-a-Sum-of-Powers-of-Three.cpp)
 - [1790. Check if One String Swap Can Make Strings Equal](src/1790.Check-if-One-String-Swap-Can-Make-Strings-Equal.cpp)
 - [1792. Maximum Average Pass Ratio](src/1792.Maximum-Average-Pass-Ratio.cpp)
 - [1800. Maximum Ascending Subarray Sum](src/1800.Maximum-Ascending-Subarray-Sum.cpp)
