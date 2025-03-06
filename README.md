@@ -212,6 +212,7 @@ The list is sorted by problem number.
 - [2924. Find Champion II](src/2924.Find-Champion-II.cpp)
 - [2940. Find Building Where Alice and Bob Can Meet](src/2940.Find-Building-Where-Alice-and-Bob-Can-Meet.cpp)
 - [2948. Make Lexicographically Smallest Array by Swapping Elements](src/2948.Make-Lexicographically-Smallest-Array-by-Swapping-Elements.cpp)
+- [2965. Find Missing and Repeated Values](src/2965.Find-Missing-and-Repeated-Values.cpp)
 - [2981. Find Longest Special Substring That Occurs Thrice I](src/2981.Find-Longest-Special-Substring-That-Occurs-Thrice-I.cpp)
 - [3042. Count Prefix and Suffix Pairs I](src/3042.Count-Prefix-and-Suffix-Pairs-I.cpp)
 - [3066. Minimum Operations to Exceed Threshold Value II](src/3066.Minimum-Operations-to-Exceed-Threshold-Value-II.cpp)
