@@ -193,6 +193,7 @@ The list is sorted by problem number.
 - [2471. Minimum Number of Operations to Sort a Binary Tree by Level](src/2471.Minimum-Number-of-Operations-to-Sort-a-Binary-Tree-by-Level.cpp)
 - [2493. Divide Nodes Into the Maximum Number of Groups](src/2493.Divide-Nodes-Into-the-Maximum-Number-of-Groups.cpp)
 - [2516. Take K of Each Character](src/2516.Take-K-of-Each-Character.cpp)
+- [2523. Closest Prime Numbers in Range](src/2523.Closest-Prime-Numbers-in-Range.cpp)
 - [2554. Maximum Number of Integers to Choose From a Range](src/2554.Maximum-Number-of-Integers-to-Choose-From-a-Range.cpp)
 - [2558. Take Gifts From the Richest Pile](src/2558.Take-Gifts-From-the-Richest-Pile.cpp)
 - [2559. Count Vowel Strings in Ranges](src/2559.Count-Vowel-Strings-in-Ranges.cpp)
