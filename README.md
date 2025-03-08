@@ -181,6 +181,7 @@ The list is sorted by problem number.
 - [2356. Number of Unique Subjects Taught by Each Teacher](src/2356.Number-of-Unique-Subjects-Taught-by-Each-Teacher.sql)
 - [2364. Count Number of Bad Pairs](src/2364.Count-Number-of-Bad-Pairs.cpp)
 - [2375. Construct Smallest Number From DI String](src/2375.Construct-Smallest-Number-From-DI-String.cpp)
+- [2379. Minimum Recolors to Get K Consecutive Black Blocks](src/2379.Minimum-Recolors-to-Get-K-Consecutive-Black-Blocks.cpp)
 - [2381. Shifting Letters II](src/2381.Shifting-Letters-II.cpp)
 - [2390. Removing Stars From a String](src/2390.Removing-Stars-From-a-String.cpp)
 - [2415. Reverse Odd Levels of Binary Tree](src/2415.Reverse-Odd-Levels-of-Binary-Tree.cpp)
