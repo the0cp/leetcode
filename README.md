@@ -231,6 +231,7 @@ The list is sorted by problem number.
 - [3243. Shortest Distance After Road Addition Queries I](src/3243.Shortest-Distance-After-Road-Addition-Queries-I.cpp)
 - [3264. Final Array State After K Multiplication Operations I](src/3264.Final-Array-State-After-K-Multiplication-Operations-I.cpp)
 - [3306. Count of Substrings Containing Every Vowel and K Consonants II](src/3306.Count-of-Substrings-Containing-Every-Vowel-and-K-Consonants-II.cpp)
+- [3356. Zero Array Transformation II](src/3356.Zero-Array-Transformation-II.cpp)
 - [3417. Zigzag Grid Traversal With Skip](src/3417.Zigzag-Grid-Traversal-With-Skip.cpp)
 - [3418. Maximum Amount of Money Robot Can Earn](src/3418.Maximum-Amount-of-Money-Robot-Can-Earn.cpp)
 - [3471. Find the Largest Almost Missing Integer](src/3471.Find-the-Largest-Almost-Missing-Integer.cpp)
