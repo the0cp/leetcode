@@ -172,6 +172,7 @@ The list is sorted by problem number.
 - [2182. Construct String With Repeat Limit](src/2182.Construct-String-With-Repeat-Limit.cpp)
 - [2185. Counting Words With a Given Prefix](src/2185.Counting-Words-With-a-Given-Prefix.cpp)
 - [2215. Find the Difference of Two Arrays](src/2215.Find-the-Difference-of-Two-Arrays.cpp)
+- [2226. Maximum Candies Allocated to K Children](src/2226.Maximum-Candies-Allocated-to-K-Children.cpp)
 - [2257. Count Unguarded Cells](src/2257.Count-Unguarded-Cells.cpp)
 - [2270. Number of Ways to Split Array](src/2270.Number-of-Ways-to-Split-Array.cpp)
 - [2290. Minimum Obstacle Removal](src/2290.Minimum-Obstacle-Removal.cpp)
