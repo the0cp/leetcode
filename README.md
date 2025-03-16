@@ -241,5 +241,8 @@ The list is sorted by problem number.
 - [3473. Sum of K Subarrays With Length at Least M](src/3473.Sum-of-K-Subarrays-With-Length-at-Least-M.cpp)
 - [3474. Lexicographically Smallest Generated String](src/3474.Lexicographically-Smallest-Generated-String.cpp)
 - [3477. Fruits Into Baskets II](src/3477.Fruits-Into-Baskets-II.cpp)
+- [3487. Maximum Unique Subarray Sum After Deletion](src/3487.Maximum-Unique-Subarray-Sum-After-Deletion.cpp)
+- [3488. Closest Equal Element Queries](src/3488.Closest-Equal-Element-Queries.cpp)
+- [3489. Zero Array Transformation IV](src/3489.Zero-Array-Transformation-IV.cpp)
 
 </details>
