@@ -171,6 +171,7 @@ The list is sorted by problem number.
 - [2161. Partition Array According to Given Pivot](src/2161.Partition-Array-According-to-Given-Pivot.cpp)
 - [2182. Construct String With Repeat Limit](src/2182.Construct-String-With-Repeat-Limit.cpp)
 - [2185. Counting Words With a Given Prefix](src/2185.Counting-Words-With-a-Given-Prefix.cpp)
+- [2206. Divide Array Into Equal Pairs](src/2206.Divide-Array-Into-Equal-Pairs.cpp)
 - [2215. Find the Difference of Two Arrays](src/2215.Find-the-Difference-of-Two-Arrays.cpp)
 - [2226. Maximum Candies Allocated to K Children](src/2226.Maximum-Candies-Allocated-to-K-Children.cpp)
 - [2257. Count Unguarded Cells](src/2257.Count-Unguarded-Cells.cpp)
