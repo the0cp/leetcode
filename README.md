@@ -230,6 +230,7 @@ The list is sorted by problem number.
 - [3152. Special Array II](src/3152.Special-Array-II.cpp)
 - [3160. Find the Number of Distinct Colors Among the Balls](src/3160.Find-the-Number-of-Distinct-Colors-Among-the-Balls.cpp)
 - [3174. Clear Digits](src/3174.Clear-Digits.cpp)
+- [3191. Minimum Operations to Make Binary Array Elements Equal to One I](src/3191.Minimum-Operations-to-Make-Binary-Array-Elements-Equal-to-One-I.cpp)
 - [3203. Find Minimum Diameter After Merging Two Trees](src/3203.Find-Minimum-Diameter-After-Merging-Two-Trees.cpp)
 - [3208. Alternating Groups II](src/3208.Alternating-Groups-II.cpp)
 - [3223. Minimum Length of String After Operations](src/3223.Minimum-Length-of-String-After-Operations.cpp)
