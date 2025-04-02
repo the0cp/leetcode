@@ -226,6 +226,7 @@ The list is sorted by problem number.
 - [2779. Maximum Beauty of an Array After Applying Operation](src/2779.Maximum-Beauty-of-an-Array-After-Applying-Operation.cpp)
 - [2825. Make String a Subsequence Using Cyclic Increments](src/2825.Make-String-a-Subsequence-Using-Cyclic-Increments.cpp)
 - [2872. Maximum Number of K Divisible Components](src/2872.Maximum-Number-of-K-Divisible-Components.cpp)
+- [2873. Maximum Value of an Ordered Triplet I](src/2873.Maximum-Value-of-an-Ordered-Triplet-I.cpp)
 - [2924. Find Champion II](src/2924.Find-Champion-II.cpp)
 - [2940. Find Building Where Alice and Bob Can Meet](src/2940.Find-Building-Where-Alice-and-Bob-Can-Meet.cpp)
 - [2948. Make Lexicographically Smallest Array by Swapping Elements](src/2948.Make-Lexicographically-Smallest-Array-by-Swapping-Elements.cpp)
