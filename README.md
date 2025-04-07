@@ -69,6 +69,7 @@ The list is sorted by problem number.
 - [394. Decode String](src/394.Decode-String.cpp)
 - [407. Trapping Rain Water II](src/407.Trapping-Rain-Water-II.cpp)
 - [415. Add Strings](src/415.Add-Strings.cpp)
+- [416. Partition Equal Subset Sum](src/416.Partition-Equal-Subset-Sum.cpp)
 - [443. String Compression](src/443.String-Compression.cpp)
 - [455. Assign Cookies](src/455.Assign-Cookies.cpp)
 - [474. Ones and Zeroes](src/474.Ones-and-Zeroes.cpp)
