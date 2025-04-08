@@ -261,6 +261,7 @@ The list is sorted by problem number.
 - [3306. Count of Substrings Containing Every Vowel and K Consonants II](src/3306.Count-of-Substrings-Containing-Every-Vowel-and-K-Consonants-II.cpp)
 - [3356. Zero Array Transformation II](src/3356.Zero-Array-Transformation-II.cpp)
 - [3394. Check if Grid can be Cut into Sections](src/3394.Check-if-Grid-can-be-Cut-into-Sections.cpp)
+- [3396. Minimum Number of Operations to Make Elements in Array Distinct](src/3396.Minimum-Number-of-Operations-to-Make-Elements-in-Array-Distinct.cpp)
 - [3417. Zigzag Grid Traversal With Skip](src/3417.Zigzag-Grid-Traversal-With-Skip.cpp)
 - [3418. Maximum Amount of Money Robot Can Earn](src/3418.Maximum-Amount-of-Money-Robot-Can-Earn.cpp)
 - [3471. Find the Largest Almost Missing Integer](src/3471.Find-the-Largest-Almost-Missing-Integer.cpp)
