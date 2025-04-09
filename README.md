@@ -260,6 +260,7 @@ The list is sorted by problem number.
 - [3264. Final Array State After K Multiplication Operations I](src/3264.Final-Array-State-After-K-Multiplication-Operations-I.cpp)
 - [3306. Count of Substrings Containing Every Vowel and K Consonants II](src/3306.Count-of-Substrings-Containing-Every-Vowel-and-K-Consonants-II.cpp)
 - [3356. Zero Array Transformation II](src/3356.Zero-Array-Transformation-II.cpp)
+- [3375. Minimum Operations to Make Array Values Equal to K](src/3375.Minimum-Operations-to-Make-Array-Values-Equal-to-K.cpp)
 - [3394. Check if Grid can be Cut into Sections](src/3394.Check-if-Grid-can-be-Cut-into-Sections.cpp)
 - [3396. Minimum Number of Operations to Make Elements in Array Distinct](src/3396.Minimum-Number-of-Operations-to-Make-Elements-in-Array-Distinct.cpp)
 - [3417. Zigzag Grid Traversal With Skip](src/3417.Zigzag-Grid-Traversal-With-Skip.cpp)
