@@ -93,6 +93,7 @@ The list is sorted by problem number.
 - [673. Number of Longest Increasing Subsequence](src/673.Number-of-Longest-Increasing-Subsequence.cpp)
 - [684. Redundant Connection](src/684.Redundant-Connection.cpp)
 - [689. Maximum Sum of 3 Non Overlapping Subarrays](src/689.Maximum-Sum-of-3-Non-Overlapping-Subarrays.cpp)
+- [700. Search in a Binary Search Tree](src/700.Search-in-a-Binary-Search-Tree.cpp)
 - [712. Minimum ASCII Delete Sum for Two Strings](src/712.Minimum-ASCII-Delete-Sum-for-Two-Strings.cpp)
 - [714. Best Time to Buy and Sell Stock with Transaction Fee](src/714.Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee.cpp)
 - [724. Find Pivot Index](src/724.Find-Pivot-Index.cpp)
