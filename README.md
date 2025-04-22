@@ -105,6 +105,7 @@ The list is sorted by problem number.
 - [790. Domino and Tromino Tiling](src/790.Domino-and-Tromino-Tiling.cpp)
 - [802. Find Eventual Safe States](src/802.Find-Eventual-Safe-States.cpp)
 - [827. Making A Large Island](src/827.Making-A-Large-Island.cpp)
+- [841. Keys and Rooms](src/841.Keys-and-Rooms.cpp)
 - [843. Guess the Word](src/843.Guess-the-Word.cpp)
 - [865. Smallest Subtree with all the Deepest Nodes](src/865.Smallest-Subtree-with-all-the-Deepest-Nodes.cpp)
 - [872. Leaf Similar Trees](src/872.Leaf-Similar-Trees.cpp)
