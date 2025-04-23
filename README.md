@@ -143,6 +143,7 @@ The list is sorted by problem number.
 - [1368. Minimum Cost to Make at Least One Valid Path in a Grid](src/1368.Minimum-Cost-to-Make-at-Least-One-Valid-Path-in-a-Grid.cpp)
 - [1372. Longest ZigZag Path in a Binary Tree](src/1372.Longest-ZigZag-Path-in-a-Binary-Tree.cpp)
 - [1378. Replace Employee ID With The Unique Identifier](src/1378.Replace-Employee-ID-With-The-Unique-Identifier.sql)
+- [1399. Count Largest Group](src/1399.Count-Largest-Group.cpp)
 - [1400. Construct K Palindrome Strings](src/1400.Construct-K-Palindrome-Strings.cpp)
 - [1408. String Matching in an Array](src/1408.String-Matching-in-an-Array.cpp)
 - [1415. The kth Lexicographical String of All Happy Strings of Length n](src/1415.The-kth-Lexicographical-String-of-All-Happy-Strings-of-Length-n.cpp)
