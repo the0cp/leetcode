@@ -273,6 +273,7 @@ The list is sorted by problem number.
 - [3306. Count of Substrings Containing Every Vowel and K Consonants II](src/3306.Count-of-Substrings-Containing-Every-Vowel-and-K-Consonants-II.cpp)
 - [3356. Zero Array Transformation II](src/3356.Zero-Array-Transformation-II.cpp)
 - [3375. Minimum Operations to Make Array Values Equal to K](src/3375.Minimum-Operations-to-Make-Array-Values-Equal-to-K.cpp)
+- [3392. Count Subarrays of Length Three With a Condition](src/3392.Count-Subarrays-of-Length-Three-With-a-Condition.cpp)
 - [3394. Check if Grid can be Cut into Sections](src/3394.Check-if-Grid-can-be-Cut-into-Sections.cpp)
 - [3396. Minimum Number of Operations to Make Elements in Array Distinct](src/3396.Minimum-Number-of-Operations-to-Make-Elements-in-Array-Distinct.cpp)
 - [3417. Zigzag Grid Traversal With Skip](src/3417.Zigzag-Grid-Traversal-With-Skip.cpp)
