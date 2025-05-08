@@ -78,6 +78,7 @@ The list is sorted by problem number.
 - [435. Non overlapping Intervals](src/435.Non-overlapping-Intervals.cpp)
 - [437. Path Sum III](src/437.Path-Sum-III.cpp)
 - [443. String Compression](src/443.String-Compression.cpp)
+- [452. Minimum Number of Arrows to Burst Balloons](src/452.Minimum-Number-of-Arrows-to-Burst-Balloons.cpp)
 - [455. Assign Cookies](src/455.Assign-Cookies.cpp)
 - [474. Ones and Zeroes](src/474.Ones-and-Zeroes.cpp)
 - [494. Target Sum](src/494.Target-Sum.cpp)
