@@ -200,6 +200,7 @@ The list is sorted by problem number.
 - [1980. Find Unique Binary String](src/1980.Find-Unique-Binary-String.cpp)
 - [2017. Grid Game](src/2017.Grid-Game.cpp)
 - [2054. Two Best Non Overlapping Events](src/2054.Two-Best-Non-Overlapping-Events.cpp)
+- [2094. Finding 3 Digit Even Numbers](src/2094.Finding-3-Digit-Even-Numbers.cpp)
 - [2095. Delete the Middle Node of a Linked List](src/2095.Delete-the-Middle-Node-of-a-Linked-List.cpp)
 - [2097. Valid Arrangement of Pairs](src/2097.Valid-Arrangement-of-Pairs.cpp)
 - [2109. Adding Spaces to a String](src/2109.Adding-Spaces-to-a-String.cpp)
