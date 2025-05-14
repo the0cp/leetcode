@@ -194,6 +194,7 @@ The list is sorted by problem number.
 - [1863. Sum of All Subset XOR Totals](src/1863.Sum-of-All-Subset-XOR-Totals.cpp)
 - [1910. Remove All Occurrences of a Substring](src/1910.Remove-All-Occurrences-of-a-Substring.cpp)
 - [1920. Build Array from Permutation](src/1920.Build-Array-from-Permutation.cpp)
+- [1926. Nearest Exit from Entrance in Maze](src/1926.Nearest-Exit-from-Entrance-in-Maze.cpp)
 - [1930. Unique Length 3 Palindromic Subsequences](src/1930.Unique-Length-3-Palindromic-Subsequences.cpp)
 - [1934. Confirmation Rate](src/1934.Confirmation-Rate.sql)
 - [1964. Find the Longest Valid Obstacle Course at Each Position](src/1964.Find-the-Longest-Valid-Obstacle-Course-at-Each-Position.cpp)
