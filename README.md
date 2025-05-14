@@ -72,6 +72,7 @@ The list is sorted by problem number.
 - [374. Guess Number Higher or Lower](src/374.Guess-Number-Higher-or-Lower.cpp)
 - [392. Is Subsequence](src/392.Is-Subsequence.cpp)
 - [394. Decode String](src/394.Decode-String.cpp)
+- [399. Evaluate Division](src/399.Evaluate-Division.cpp)
 - [407. Trapping Rain Water II](src/407.Trapping-Rain-Water-II.cpp)
 - [415. Add Strings](src/415.Add-Strings.cpp)
 - [416. Partition Equal Subset Sum](src/416.Partition-Equal-Subset-Sum.cpp)
