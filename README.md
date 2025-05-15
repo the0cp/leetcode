@@ -125,6 +125,7 @@ The list is sorted by problem number.
 - [931. Minimum Falling Path Sum](src/931.Minimum-Falling-Path-Sum.cpp)
 - [933. Number of Recent Calls](src/933.Number-of-Recent-Calls.cpp)
 - [983. Minimum Cost For Tickets](src/983.Minimum-Cost-For-Tickets.cpp)
+- [994. Rotting Oranges](src/994.Rotting-Oranges.cpp)
 - [1004. Max Consecutive Ones III](src/1004.Max-Consecutive-Ones-III.cpp)
 - [1014. Best Sightseeing Pair](src/1014.Best-Sightseeing-Pair.cpp)
 - [1027. Longest Arithmetic Subsequence](src/1027.Longest-Arithmetic-Subsequence.cpp)
