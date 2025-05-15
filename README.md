@@ -237,6 +237,7 @@ The list is sorted by problem number.
 - [2429. Minimize XOR](src/2429.Minimize-XOR.cpp)
 - [2460. Apply Operations to an Array](src/2460.Apply-Operations-to-an-Array.cpp)
 - [2461. Maximum Sum of Distinct Subarrays](src/2461.Maximum-Sum-of-Distinct-Subarrays.cpp)
+- [2462. Total Cost to Hire K Workers](src/2462.Total-Cost-to-Hire-K-Workers.cpp)
 - [2466. Count Ways To Build Good Strings](src/2466.Count-Ways-To-Build-Good-Strings.cpp)
 - [2467. Most Profitable Path in a Tree](src/2467.Most-Profitable-Path-in-a-Tree.cpp)
 - [2471. Minimum Number of Operations to Sort a Binary Tree by Level](src/2471.Minimum-Number-of-Operations-to-Sort-a-Binary-Tree-by-Level.cpp)
