@@ -277,6 +277,7 @@ The list is sorted by problem number.
 - [2874. Maximum Value of an Ordered Triplet II](src/2874.Maximum-Value-of-an-Ordered-Triplet-II.cpp)
 - [2924. Find Champion II](src/2924.Find-Champion-II.cpp)
 - [2940. Find Building Where Alice and Bob Can Meet](src/2940.Find-Building-Where-Alice-and-Bob-Can-Meet.cpp)
+- [2942. Find Words Containing Character](src/2942.Find-Words-Containing-Character.cpp)
 - [2948. Make Lexicographically Smallest Array by Swapping Elements](src/2948.Make-Lexicographically-Smallest-Array-by-Swapping-Elements.cpp)
 - [2965. Find Missing and Repeated Values](src/2965.Find-Missing-and-Repeated-Values.cpp)
 - [2981. Find Longest Special Substring That Occurs Thrice I](src/2981.Find-Longest-Special-Substring-That-Occurs-Thrice-I.cpp)
