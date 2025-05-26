@@ -199,6 +199,7 @@ The list is sorted by problem number.
 - [1790. Check if One String Swap Can Make Strings Equal](src/1790.Check-if-One-String-Swap-Can-Make-Strings-Equal.cpp)
 - [1792. Maximum Average Pass Ratio](src/1792.Maximum-Average-Pass-Ratio.cpp)
 - [1800. Maximum Ascending Subarray Sum](src/1800.Maximum-Ascending-Subarray-Sum.cpp)
+- [1857. Largest Color Value in a Directed Graph](src/1857.Largest-Color-Value-in-a-Directed-Graph.cpp)
 - [1861. Rotating the Box](src/1861.Rotating-the-Box.cpp)
 - [1863. Sum of All Subset XOR Totals](src/1863.Sum-of-All-Subset-XOR-Totals.cpp)
 - [1910. Remove All Occurrences of a Substring](src/1910.Remove-All-Occurrences-of-a-Substring.cpp)
