@@ -276,6 +276,7 @@ The list is sorted by problem number.
 - [2872. Maximum Number of K Divisible Components](src/2872.Maximum-Number-of-K-Divisible-Components.cpp)
 - [2873. Maximum Value of an Ordered Triplet I](src/2873.Maximum-Value-of-an-Ordered-Triplet-I.cpp)
 - [2874. Maximum Value of an Ordered Triplet II](src/2874.Maximum-Value-of-an-Ordered-Triplet-II.cpp)
+- [2894. Divisible and Non divisible Sums Difference](src/2894.Divisible-and-Non-divisible-Sums-Difference.cpp)
 - [2924. Find Champion II](src/2924.Find-Champion-II.cpp)
 - [2940. Find Building Where Alice and Bob Can Meet](src/2940.Find-Building-Where-Alice-and-Bob-Can-Meet.cpp)
 - [2942. Find Words Containing Character](src/2942.Find-Words-Containing-Character.cpp)
