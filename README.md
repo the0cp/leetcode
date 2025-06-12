@@ -307,6 +307,7 @@ The list is sorted by problem number.
 - [3396. Minimum Number of Operations to Make Elements in Array Distinct](src/3396.Minimum-Number-of-Operations-to-Make-Elements-in-Array-Distinct.cpp)
 - [3417. Zigzag Grid Traversal With Skip](src/3417.Zigzag-Grid-Traversal-With-Skip.cpp)
 - [3418. Maximum Amount of Money Robot Can Earn](src/3418.Maximum-Amount-of-Money-Robot-Can-Earn.cpp)
+- [3423. Maximum Difference Between Adjacent Elements in a Circular Array](src/3423.Maximum-Difference-Between-Adjacent-Elements-in-a-Circular-Array.cpp)
 - [3442. Maximum Difference Between Even and Odd Frequency I](src/3442.Maximum-Difference-Between-Even-and-Odd-Frequency-I.cpp)
 - [3471. Find the Largest Almost Missing Integer](src/3471.Find-the-Largest-Almost-Missing-Integer.cpp)
 - [3472. Longest Palindromic Subsequence After at Most K Operations](src/3472.Longest-Palindromic-Subsequence-After-at-Most-K-Operations.cpp)
