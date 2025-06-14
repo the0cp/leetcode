@@ -24,6 +24,7 @@ The list is sorted by problem number.
 - [42. Trapping Rain Water](src/42.Trapping-Rain-Water.cpp)
 - [51. N Queens](src/51.N-Queens.cpp)
 - [52. N Queens II](src/52.N-Queens-II.cpp)
+- [58. Length of Last Word](src/58.Length-of-Last-Word.cpp)
 - [62. Unique Paths](src/62.Unique-Paths.cpp)
 - [63. Unique Paths II](src/63.Unique-Paths-II.cpp)
 - [64. Minimum Path Sum](src/64.Minimum-Path-Sum.cpp)
