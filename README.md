@@ -261,6 +261,7 @@ The list is sorted by problem number.
 - [2558. Take Gifts From the Richest Pile](src/2558.Take-Gifts-From-the-Richest-Pile.cpp)
 - [2559. Count Vowel Strings in Ranges](src/2559.Count-Vowel-Strings-in-Ranges.cpp)
 - [2560. House Robber IV](src/2560.House-Robber-IV.cpp)
+- [2566. Maximum Difference by Remapping a Digit](src/2566.Maximum-Difference-by-Remapping-a-Digit.cpp)
 - [2570. Merge Two 2D Arrays by Summing Values](src/2570.Merge-Two-2D-Arrays-by-Summing-Values.cpp)
 - [2577. Minimum Time to Visit a Cell](src/2577.Minimum-Time-to-Visit-a-Cell.cpp)
 - [2579. Count Total Number of Colored Cells](src/2579.Count-Total-Number-of-Colored-Cells.cpp)
