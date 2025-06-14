@@ -46,6 +46,7 @@ The list is sorted by problem number.
 - [136. Single Number](src/136.Single-Number.cpp)
 - [139. Word Break](src/139.Word-Break.cpp)
 - [144. Binary Tree Preorder Traversal](src/144.Binary-Tree-Preorder-Traversal.cpp)
+- [146. LRU Cache](src/146.LRU-Cache.cpp)
 - [151. Reverse Words in a String](src/151.Reverse-Words-in-a-String.cpp)
 - [162. Find Peak Element](src/162.Find-Peak-Element.cpp)
 - [169. Majority Element](src/169.Majority-Element.cpp)
