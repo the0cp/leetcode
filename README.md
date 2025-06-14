@@ -15,6 +15,7 @@ The list is sorted by problem number.
 - [8. String to Integer (atoi)](src/8.String-to-Integer-(atoi).cpp)
 - [9. Palindrome Number](src/9.Palindrome-Number.cpp)
 - [11. Container With Most Water](src/11.Container-With-Most-Water.cpp)
+- [13. Roman to Integer](src/13.Roman-to-Integer.cpp)
 - [17. Letter Combinations of a Phone Number](src/17.Letter-Combinations-of-a-Phone-Number.cpp)
 - [26. Remove Duplicates from Sorted Array](src/26.Remove-Duplicates-from-Sorted-Array.cpp)
 - [27. Remove Element](src/27.Remove-Element.cpp)
