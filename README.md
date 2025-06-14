@@ -28,6 +28,7 @@ The list is sorted by problem number.
 - [62. Unique Paths](src/62.Unique-Paths.cpp)
 - [63. Unique Paths II](src/63.Unique-Paths-II.cpp)
 - [64. Minimum Path Sum](src/64.Minimum-Path-Sum.cpp)
+- [66. Plus One](src/66.Plus-One.cpp)
 - [69. Sqrt(x)](src/69.Sqrt(x).cpp)
 - [70. Climbing Stairs](src/70.Climbing-Stairs.cpp)
 - [72. Edit Distance](src/72.Edit-Distance.cpp)
