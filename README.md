@@ -218,6 +218,7 @@ The list is sorted by problem number.
 - [1964. Find the Longest Valid Obstacle Course at Each Position](src/1964.Find-the-Longest-Valid-Obstacle-Course-at-Each-Position.cpp)
 - [1975. Maximum Matrix Sum](src/1975.Maximum-Matrix-Sum.cpp)
 - [1980. Find Unique Binary String](src/1980.Find-Unique-Binary-String.cpp)
+- [2016. Maximum Difference Between Increasing Elements](src/2016.Maximum-Difference-Between-Increasing-Elements.cpp)
 - [2017. Grid Game](src/2017.Grid-Game.cpp)
 - [2054. Two Best Non Overlapping Events](src/2054.Two-Best-Non-Overlapping-Events.cpp)
 - [2094. Finding 3 Digit Even Numbers](src/2094.Finding-3-Digit-Even-Numbers.cpp)
