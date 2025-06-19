@@ -82,6 +82,7 @@ The list is sorted by problem number.
 - [354. Russian Doll Envelopes](src/354.Russian-Doll-Envelopes.cpp)
 - [368. Largest Divisible Subset](src/368.Largest-Divisible-Subset.cpp)
 - [374. Guess Number Higher or Lower](src/374.Guess-Number-Higher-or-Lower.cpp)
+- [383. Ransom Note](src/383.Ransom-Note.cpp)
 - [386. Lexicographical Numbers](src/386.Lexicographical-Numbers.cpp)
 - [392. Is Subsequence](src/392.Is-Subsequence.cpp)
 - [394. Decode String](src/394.Decode-String.cpp)
