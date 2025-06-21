@@ -72,6 +72,7 @@ The list is sorted by problem number.
 - [221. Maximal Square](src/221.Maximal-Square.cpp)
 - [236. Lowest Common Ancestor of a Binary Tree](src/236.Lowest-Common-Ancestor-of-a-Binary-Tree.cpp)
 - [238. Product of Array Except Self](src/238.Product-of-Array-Except-Self.cpp)
+- [242. Valid Anagram](src/242.Valid-Anagram.cpp)
 - [279. Perfect Squares](src/279.Perfect-Squares.cpp)
 - [283. Move Zeroes](src/283.Move-Zeroes.cpp)
 - [300. Longest Increasing Subsequence](src/300.Longest-Increasing-Subsequence.cpp)
