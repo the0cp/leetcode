@@ -234,6 +234,7 @@ The list is sorted by problem number.
 - [2116. Check if a Parentheses String Can Be Valid](src/2116.Check-if-a-Parentheses-String-Can-Be-Valid.cpp)
 - [2127. Maximum Employees to Be Invited to a Meeting](src/2127.Maximum-Employees-to-Be-Invited-to-a-Meeting.cpp)
 - [2130. Maximum Twin Sum of a Linked List](src/2130.Maximum-Twin-Sum-of-a-Linked-List.cpp)
+- [2138. Divide a String Into Groups of Size k](src/2138.Divide-a-String-Into-Groups-of-Size-k.cpp)
 - [2140. Solving Questions With Brainpower](src/2140.Solving-Questions-With-Brainpower.cpp)
 - [2161. Partition Array According to Given Pivot](src/2161.Partition-Array-According-to-Given-Pivot.cpp)
 - [2182. Construct String With Repeat Limit](src/2182.Construct-String-With-Repeat-Limit.cpp)
