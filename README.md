@@ -64,6 +64,7 @@ The list is sorted by problem number.
 - [198. House Robber](src/198.House-Robber.cpp)
 - [199. Binary Tree Right Side View](src/199.Binary-Tree-Right-Side-View.cpp)
 - [200. Number of Islands](src/200.Number-of-Islands.cpp)
+- [202. Happy Number](src/202.Happy-Number.cpp)
 - [205. Isomorphic Strings](src/205.Isomorphic-Strings.cpp)
 - [206. Reverse Linked List](src/206.Reverse-Linked-List.cpp)
 - [208. Implement Trie (Prefix Tree)](src/208.Implement-Trie-(Prefix-Tree).cpp)
