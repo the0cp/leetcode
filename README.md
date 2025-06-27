@@ -39,6 +39,7 @@ The list is sorted by problem number.
 - [91. Decode Ways](src/91.Decode-Ways.cpp)
 - [95. Unique Binary Search Trees II](src/95.Unique-Binary-Search-Trees-II.cpp)
 - [96. Unique Binary Search Trees](src/96.Unique-Binary-Search-Trees.cpp)
+- [100. Same Tree](src/100.Same-Tree.cpp)
 - [104. Maximum Depth of Binary Tree](src/104.Maximum-Depth-of-Binary-Tree.cpp)
 - [115. Distinct Subsequences](src/115.Distinct-Subsequences.cpp)
 - [120. Triangle](src/120.Triangle.cpp)
