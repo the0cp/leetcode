@@ -114,6 +114,7 @@ The list is sorted by problem number.
 - [577. Employee Bonus](src/577.Employee-Bonus.sql)
 - [583. Delete Operation for Two Strings](src/583.Delete-Operation-for-Two-Strings.cpp)
 - [584. Find Customer Referee](src/584.Find-Customer-Referee.sql)
+- [594. Longest Harmonious Subsequence](src/594.Longest-Harmonious-Subsequence.cpp)
 - [595. Big Countries](src/595.Big-Countries.sql)
 - [605. Can Place Flowers](src/605.Can-Place-Flowers.cpp)
 - [620. Not Boring Movies](src/620.Not-Boring-Movies.sql)
