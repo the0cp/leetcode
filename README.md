@@ -171,6 +171,7 @@ The list is sorted by problem number.
 - [1261. Find Elements in a Contaminated Binary Tree](src/1261.Find-Elements-in-a-Contaminated-Binary-Tree.cpp)
 - [1267. Count Servers that Communicate](src/1267.Count-Servers-that-Communicate.cpp)
 - [1268. Search Suggestions System](src/1268.Search-Suggestions-System.cpp)
+- [1290. Convert Binary Number in a Linked List to Integer](src/1290.Convert-Binary-Number-in-a-Linked-List-to-Integer.cpp)
 - [1295. Find Numbers with Even Number of Digits](src/1295.Find-Numbers-with-Even-Number-of-Digits.cpp)
 - [1312. Minimum Insertion Steps to Make a String Palindrome](src/1312.Minimum-Insertion-Steps-to-Make-a-String-Palindrome.cpp)
 - [1318. Minimum Flips to Make a OR b Equal to c](src/1318.Minimum-Flips-to-Make-a-OR-b-Equal-to-c.cpp)
