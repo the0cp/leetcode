@@ -204,6 +204,7 @@ The list is sorted by problem number.
 - [1661. Average Time of Process per Machine](src/1661.Average-Time-of-Process-per-Machine.sql)
 - [1679. Max Number of K Sum Pairs](src/1679.Max-Number-of-K-Sum-Pairs.cpp)
 - [1683. Invalid Tweets](src/1683.Invalid-Tweets.sql)
+- [1695. Maximum Erasure Value](src/1695.Maximum-Erasure-Value.cpp)
 - [1718. Construct the Lexicographically Largest Valid Sequence](src/1718.Construct-the-Lexicographically-Largest-Valid-Sequence.cpp)
 - [1726. Tuple with Same Product](src/1726.Tuple-with-Same-Product.cpp)
 - [1732. Find the Highest Altitude](src/1732.Find-the-Highest-Altitude.cpp)
