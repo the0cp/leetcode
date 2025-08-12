@@ -296,6 +296,7 @@ The list is sorted by problem number.
 - [2698. Find the Punishment Number of an Integer](src/2698.Find-the-Punishment-Number-of-an-Integer.cpp)
 - [2762. Continuous Subarrays](src/2762.Continuous-Subarrays.cpp)
 - [2779. Maximum Beauty of an Array After Applying Operation](src/2779.Maximum-Beauty-of-an-Array-After-Applying-Operation.cpp)
+- [2787. Ways to Express an Integer as Sum of Powers](src/2787.Ways-to-Express-an-Integer-as-Sum-of-Powers.cpp)
 - [2825. Make String a Subsequence Using Cyclic Increments](src/2825.Make-String-a-Subsequence-Using-Cyclic-Increments.cpp)
 - [2872. Maximum Number of K Divisible Components](src/2872.Maximum-Number-of-K-Divisible-Components.cpp)
 - [2873. Maximum Value of an Ordered Triplet I](src/2873.Maximum-Value-of-an-Ordered-Triplet-I.cpp)
