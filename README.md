@@ -84,6 +84,7 @@ The list is sorted by problem number.
 - [334. Increasing Triplet Subsequence](src/334.Increasing-Triplet-Subsequence.cpp)
 - [337. House Robber III](src/337.House-Robber-III.cpp)
 - [338. Counting Bits](src/338.Counting-Bits.cpp)
+- [342. Power of Four](src/342.Power-of-Four.cpp)
 - [343. Integer Break](src/343.Integer-Break.cpp)
 - [345. Reverse Vowels of a String](src/345.Reverse-Vowels-of-a-String.cpp)
 - [354. Russian Doll Envelopes](src/354.Russian-Doll-Envelopes.cpp)
