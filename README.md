@@ -21,6 +21,7 @@ The list is sorted by problem number.
 - [26. Remove Duplicates from Sorted Array](src/26.Remove-Duplicates-from-Sorted-Array.cpp)
 - [27. Remove Element](src/27.Remove-Element.cpp)
 - [28. Find the Index of the First Occurrence in a String](src/28.Find-the-Index-of-the-First-Occurrence-in-a-String.cpp)
+- [36. Valid Sudoku](src/36.Valid-Sudoku.cpp)
 - [37. Sudoku Solver](src/37.Sudoku-Solver.cpp)
 - [41. First Missing Positive](src/41.First-Missing-Positive.cpp)
 - [42. Trapping Rain Water](src/42.Trapping-Rain-Water.cpp)
