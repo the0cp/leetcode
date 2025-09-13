@@ -346,5 +346,6 @@ The list is sorted by problem number.
 - [3487. Maximum Unique Subarray Sum After Deletion](src/3487.Maximum-Unique-Subarray-Sum-After-Deletion.cpp)
 - [3488. Closest Equal Element Queries](src/3488.Closest-Equal-Element-Queries.cpp)
 - [3489. Zero Array Transformation IV](src/3489.Zero-Array-Transformation-IV.cpp)
+- [3541. Find Most Frequent Vowel and Consonant](src/3541.Find-Most-Frequent-Vowel-and-Consonant.cpp)
 
 </details>
