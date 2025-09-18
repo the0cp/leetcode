@@ -334,6 +334,7 @@ The list is sorted by problem number.
 - [3392. Count Subarrays of Length Three With a Condition](src/3392.Count-Subarrays-of-Length-Three-With-a-Condition.cpp)
 - [3394. Check if Grid can be Cut into Sections](src/3394.Check-if-Grid-can-be-Cut-into-Sections.cpp)
 - [3396. Minimum Number of Operations to Make Elements in Array Distinct](src/3396.Minimum-Number-of-Operations-to-Make-Elements-in-Array-Distinct.cpp)
+- [3408. Design Task Manager](src/3408.Design-Task-Manager.cpp)
 - [3417. Zigzag Grid Traversal With Skip](src/3417.Zigzag-Grid-Traversal-With-Skip.cpp)
 - [3418. Maximum Amount of Money Robot Can Earn](src/3418.Maximum-Amount-of-Money-Robot-Can-Earn.cpp)
 - [3423. Maximum Difference Between Adjacent Elements in a Circular Array](src/3423.Maximum-Difference-Between-Adjacent-Elements-in-a-Circular-Array.cpp)
