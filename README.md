@@ -330,6 +330,7 @@ The list is sorted by problem number.
 - [3264. Final Array State After K Multiplication Operations I](src/3264.Final-Array-State-After-K-Multiplication-Operations-I.cpp)
 - [3306. Count of Substrings Containing Every Vowel and K Consonants II](src/3306.Count-of-Substrings-Containing-Every-Vowel-and-K-Consonants-II.cpp)
 - [3330. Find the Original Typed String I](src/3330.Find-the-Original-Typed-String-I.cpp)
+- [3346. Maximum Frequency of an Element After Performing Operations I](src/3346.Maximum-Frequency-of-an-Element-After-Performing-Operations-I.cpp)
 - [3349. Adjacent Increasing Subarrays Detection I](src/3349.Adjacent-Increasing-Subarrays-Detection-I.cpp)
 - [3356. Zero Array Transformation II](src/3356.Zero-Array-Transformation-II.cpp)
 - [3375. Minimum Operations to Make Array Values Equal to K](src/3375.Minimum-Operations-to-Make-Array-Values-Equal-to-K.cpp)
