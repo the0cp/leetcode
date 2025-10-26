@@ -235,6 +235,7 @@ The list is sorted by problem number.
 - [2011. Final Value of Variable After Performing Operations](src/2011.Final-Value-of-Variable-After-Performing-Operations.cpp)
 - [2016. Maximum Difference Between Increasing Elements](src/2016.Maximum-Difference-Between-Increasing-Elements.cpp)
 - [2017. Grid Game](src/2017.Grid-Game.cpp)
+- [2043. Simple Bank System](src/2043.Simple-Bank-System.cpp)
 - [2054. Two Best Non Overlapping Events](src/2054.Two-Best-Non-Overlapping-Events.cpp)
 - [2094. Finding 3 Digit Even Numbers](src/2094.Finding-3-Digit-Even-Numbers.cpp)
 - [2095. Delete the Middle Node of a Linked List](src/2095.Delete-the-Middle-Node-of-a-Linked-List.cpp)
