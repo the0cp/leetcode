@@ -243,6 +243,7 @@ The list is sorted by problem number.
 - [2097. Valid Arrangement of Pairs](src/2097.Valid-Arrangement-of-Pairs.cpp)
 - [2109. Adding Spaces to a String](src/2109.Adding-Spaces-to-a-String.cpp)
 - [2116. Check if a Parentheses String Can Be Valid](src/2116.Check-if-a-Parentheses-String-Can-Be-Valid.cpp)
+- [2125. Number of Laser Beams in a Bank](src/2125.Number-of-Laser-Beams-in-a-Bank.cpp)
 - [2127. Maximum Employees to Be Invited to a Meeting](src/2127.Maximum-Employees-to-Be-Invited-to-a-Meeting.cpp)
 - [2130. Maximum Twin Sum of a Linked List](src/2130.Maximum-Twin-Sum-of-a-Linked-List.cpp)
 - [2138. Divide a String Into Groups of Size k](src/2138.Divide-a-String-Into-Groups-of-Size-k.cpp)
