@@ -335,6 +335,7 @@ The list is sorted by problem number.
 - [3330. Find the Original Typed String I](src/3330.Find-the-Original-Typed-String-I.cpp)
 - [3346. Maximum Frequency of an Element After Performing Operations I](src/3346.Maximum-Frequency-of-an-Element-After-Performing-Operations-I.cpp)
 - [3349. Adjacent Increasing Subarrays Detection I](src/3349.Adjacent-Increasing-Subarrays-Detection-I.cpp)
+- [3354. Make Array Elements Equal to Zero](src/3354.Make-Array-Elements-Equal-to-Zero.cpp)
 - [3356. Zero Array Transformation II](src/3356.Zero-Array-Transformation-II.cpp)
 - [3375. Minimum Operations to Make Array Values Equal to K](src/3375.Minimum-Operations-to-Make-Array-Values-Equal-to-K.cpp)
 - [3392. Count Subarrays of Length Three With a Condition](src/3392.Count-Subarrays-of-Length-Three-With-a-Condition.cpp)
