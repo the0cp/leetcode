@@ -199,6 +199,7 @@ The list is sorted by problem number.
 - [1475. Final Prices With a Special Discount in a Shop](src/1475.Final-Prices-With-a-Special-Discount-in-a-Shop.cpp)
 - [1493. Longest Subarray of 1s After Deleting One Element](src/1493.Longest-Subarray-of-1s-After-Deleting-One-Element.cpp)
 - [1524. Number of Sub arrays With Odd Sum](src/1524.Number-of-Sub-arrays-With-Odd-Sum.cpp)
+- [1526. Minimum Number of Increments on Subarrays to Form a Target Array](src/1526.Minimum-Number-of-Increments-on-Subarrays-to-Form-a-Target-Array.cpp)
 - [1550. Three Consecutive Odds](src/1550.Three-Consecutive-Odds.cpp)
 - [1581. Customer Who Visited but Did Not Make Any Transactions](src/1581.Customer-Who-Visited-but-Did-Not-Make-Any-Transactions.sql)
 - [1639. Number of Ways to Form a Target String Given a Dictionary](src/1639.Number-of-Ways-to-Form-a-Target-String-Given-a-Dictionary.cpp)
