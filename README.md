@@ -329,6 +329,7 @@ The list is sorted by problem number.
 - [3191. Minimum Operations to Make Binary Array Elements Equal to One I](src/3191.Minimum-Operations-to-Make-Binary-Array-Elements-Equal-to-One-I.cpp)
 - [3203. Find Minimum Diameter After Merging Two Trees](src/3203.Find-Minimum-Diameter-After-Merging-Two-Trees.cpp)
 - [3208. Alternating Groups II](src/3208.Alternating-Groups-II.cpp)
+- [3217. Delete Nodes From Linked List Present in Array](src/3217.Delete-Nodes-From-Linked-List-Present-in-Array.cpp)
 - [3223. Minimum Length of String After Operations](src/3223.Minimum-Length-of-String-After-Operations.cpp)
 - [3243. Shortest Distance After Road Addition Queries I](src/3243.Shortest-Distance-After-Road-Addition-Queries-I.cpp)
 - [3264. Final Array State After K Multiplication Operations I](src/3264.Final-Array-State-After-K-Multiplication-Operations-I.cpp)
