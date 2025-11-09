@@ -252,6 +252,7 @@ The list is sorted by problem number.
 - [2138. Divide a String Into Groups of Size k](src/2138.Divide-a-String-Into-Groups-of-Size-k.cpp)
 - [2140. Solving Questions With Brainpower](src/2140.Solving-Questions-With-Brainpower.cpp)
 - [2161. Partition Array According to Given Pivot](src/2161.Partition-Array-According-to-Given-Pivot.cpp)
+- [2169. Count Operations to Obtain Zero](src/2169.Count-Operations-to-Obtain-Zero.cpp)
 - [2182. Construct String With Repeat Limit](src/2182.Construct-String-With-Repeat-Limit.cpp)
 - [2185. Counting Words With a Given Prefix](src/2185.Counting-Words-With-a-Given-Prefix.cpp)
 - [2206. Divide Array Into Equal Pairs](src/2206.Divide-Array-Into-Equal-Pairs.cpp)
