@@ -364,6 +364,7 @@ The list is sorted by problem number.
 - [3488. Closest Equal Element Queries](src/3488.Closest-Equal-Element-Queries.cpp)
 - [3489. Zero Array Transformation IV](src/3489.Zero-Array-Transformation-IV.cpp)
 - [3541. Find Most Frequent Vowel and Consonant](src/3541.Find-Most-Frequent-Vowel-and-Consonant.cpp)
+- [3542. Minimum Operations to Convert All Elements to Zero](src/3542.Minimum-Operations-to-Convert-All-Elements-to-Zero.cpp)
 - [3607. Power Grid Maintenance](src/3607.Power-Grid-Maintenance.cpp)
 
 </details>
