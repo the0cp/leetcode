@@ -300,6 +300,7 @@ The list is sorted by problem number.
 - [2579. Count Total Number of Colored Cells](src/2579.Count-Total-Number-of-Colored-Cells.cpp)
 - [2593. Find Score of an Array After Marking All Elements](src/2593.Find-Score-of-an-Array-After-Marking-All-Elements.cpp)
 - [2594. Minimum Time to Repair Cars](src/2594.Minimum-Time-to-Repair-Cars.cpp)
+- [2654. Minimum Number of Operations to Make All Array Elements Equal to 1](src/2654.Minimum-Number-of-Operations-to-Make-All-Array-Elements-Equal-to-1.cpp)
 - [2657. Find the Prefix Common Array of Two Arrays](src/2657.Find-the-Prefix-Common-Array-of-Two-Arrays.cpp)
 - [2658. Maximum Number of Fish in a Grid](src/2658.Maximum-Number-of-Fish-in-a-Grid.cpp)
 - [2661. First Completely Painted Row or Column](src/2661.First-Completely-Painted-Row-or-Column.cpp)
