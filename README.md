@@ -338,6 +338,7 @@ The list is sorted by problem number.
 - [3217. Delete Nodes From Linked List Present in Array](src/3217.Delete-Nodes-From-Linked-List-Present-in-Array.cpp)
 - [3223. Minimum Length of String After Operations](src/3223.Minimum-Length-of-String-After-Operations.cpp)
 - [3228. Maximum Number of Operations to Move Ones to the End](src/3228.Maximum-Number-of-Operations-to-Move-Ones-to-the-End.cpp)
+- [3234. Count the Number of Substrings With Dominant Ones](src/3234.Count-the-Number-of-Substrings-With-Dominant-Ones.cpp)
 - [3243. Shortest Distance After Road Addition Queries I](src/3243.Shortest-Distance-After-Road-Addition-Queries-I.cpp)
 - [3264. Final Array State After K Multiplication Operations I](src/3264.Final-Array-State-After-K-Multiplication-Operations-I.cpp)
 - [3306. Count of Substrings Containing Every Vowel and K Consonants II](src/3306.Count-of-Substrings-Containing-Every-Vowel-and-K-Consonants-II.cpp)
