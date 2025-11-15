@@ -289,6 +289,7 @@ The list is sorted by problem number.
 - [2523. Closest Prime Numbers in Range](src/2523.Closest-Prime-Numbers-in-Range.cpp)
 - [2528. Maximize the Minimum Powered City](src/2528.Maximize-the-Minimum-Powered-City.cpp)
 - [2529. Maximum Count of Positive Integer and Negative Integer](src/2529.Maximum-Count-of-Positive-Integer-and-Negative-Integer.cpp)
+- [2536. Increment Submatrices by One](src/2536.Increment-Submatrices-by-One.cpp)
 - [2542. Maximum Subsequence Score](src/2542.Maximum-Subsequence-Score.cpp)
 - [2554. Maximum Number of Integers to Choose From a Range](src/2554.Maximum-Number-of-Integers-to-Choose-From-a-Range.cpp)
 - [2558. Take Gifts From the Richest Pile](src/2558.Take-Gifts-From-the-Richest-Pile.cpp)
