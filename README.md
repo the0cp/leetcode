@@ -198,6 +198,7 @@ The list is sorted by problem number.
 - [1466. Reorder Routes to Make All Paths Lead to the City Zero](src/1466.Reorder-Routes-to-Make-All-Paths-Lead-to-the-City-Zero.cpp)
 - [1475. Final Prices With a Special Discount in a Shop](src/1475.Final-Prices-With-a-Special-Discount-in-a-Shop.cpp)
 - [1493. Longest Subarray of 1s After Deleting One Element](src/1493.Longest-Subarray-of-1s-After-Deleting-One-Element.cpp)
+- [1513. Number of Substrings With Only 1s](src/1513.Number-of-Substrings-With-Only-1s.cpp)
 - [1524. Number of Sub arrays With Odd Sum](src/1524.Number-of-Sub-arrays-With-Odd-Sum.cpp)
 - [1526. Minimum Number of Increments on Subarrays to Form a Target Array](src/1526.Minimum-Number-of-Increments-on-Subarrays-to-Form-a-Target-Array.cpp)
 - [1550. Three Consecutive Odds](src/1550.Three-Consecutive-Odds.cpp)
