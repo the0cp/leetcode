@@ -191,6 +191,7 @@ The list is sorted by problem number.
 - [1415. The kth Lexicographical String of All Happy Strings of Length n](src/1415.The-kth-Lexicographical-String-of-All-Happy-Strings-of-Length-n.cpp)
 - [1422. Maximum Score After Splitting a String](src/1422.Maximum-Score-After-Splitting-a-String.cpp)
 - [1431. Kids With the Greatest Number of Candies](src/1431.Kids-With-the-Greatest-Number-of-Candies.cpp)
+- [1437. Check If All 1's Are at Least Length K Places Away](src/1437.Check-If-All-1's-Are-at-Least-Length-K-Places-Away.cpp)
 - [1448. Count Good Nodes in Binary Tree](src/1448.Count-Good-Nodes-in-Binary-Tree.cpp)
 - [1455. Check If a Word Occurs As a Prefix](src/1455.Check-If-a-Word-Occurs-As-a-Prefix.cpp)
 - [1456. Maximum Number of Vowels in a Substring of Given Length](src/1456.Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length.cpp)
