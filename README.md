@@ -337,6 +337,7 @@ The list is sorted by problem number.
 - [3169. Count Days Without Meetings](src/3169.Count-Days-Without-Meetings.cpp)
 - [3170. Lexicographically Minimum String After Removing Stars](src/3170.Lexicographically-Minimum-String-After-Removing-Stars.cpp)
 - [3174. Clear Digits](src/3174.Clear-Digits.cpp)
+- [3190. Find Minimum Operations to Make All Elements Divisible by Three](src/3190.Find-Minimum-Operations-to-Make-All-Elements-Divisible-by-Three.cpp)
 - [3191. Minimum Operations to Make Binary Array Elements Equal to One I](src/3191.Minimum-Operations-to-Make-Binary-Array-Elements-Equal-to-One-I.cpp)
 - [3203. Find Minimum Diameter After Merging Two Trees](src/3203.Find-Minimum-Diameter-After-Merging-Two-Trees.cpp)
 - [3208. Alternating Groups II](src/3208.Alternating-Groups-II.cpp)
