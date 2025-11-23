@@ -174,6 +174,7 @@ The list is sorted by problem number.
 - [1207. Unique Number of Occurrences](src/1207.Unique-Number-of-Occurrences.cpp)
 - [1218. Longest Arithmetic Subsequence of Given Difference](src/1218.Longest-Arithmetic-Subsequence-of-Given-Difference.cpp)
 - [1261. Find Elements in a Contaminated Binary Tree](src/1261.Find-Elements-in-a-Contaminated-Binary-Tree.cpp)
+- [1262. Greatest Sum Divisible by Three](src/1262.Greatest-Sum-Divisible-by-Three.cpp)
 - [1267. Count Servers that Communicate](src/1267.Count-Servers-that-Communicate.cpp)
 - [1268. Search Suggestions System](src/1268.Search-Suggestions-System.cpp)
 - [1290. Convert Binary Number in a Linked List to Integer](src/1290.Convert-Binary-Number-in-a-Linked-List-to-Integer.cpp)
