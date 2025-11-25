@@ -157,6 +157,7 @@ The list is sorted by problem number.
 - [994. Rotting Oranges](src/994.Rotting-Oranges.cpp)
 - [1004. Max Consecutive Ones III](src/1004.Max-Consecutive-Ones-III.cpp)
 - [1014. Best Sightseeing Pair](src/1014.Best-Sightseeing-Pair.cpp)
+- [1015. Smallest Integer Divisible by K](src/1015.Smallest-Integer-Divisible-by-K.cpp)
 - [1018. Binary Prefix Divisible By 5](src/1018.Binary-Prefix-Divisible-By-5.cpp)
 - [1027. Longest Arithmetic Subsequence](src/1027.Longest-Arithmetic-Subsequence.cpp)
 - [1028. Recover a Tree From Preorder Traversal](src/1028.Recover-a-Tree-From-Preorder-Traversal.cpp)
