@@ -285,6 +285,7 @@ The list is sorted by problem number.
 - [2415. Reverse Odd Levels of Binary Tree](src/2415.Reverse-Odd-Levels-of-Binary-Tree.cpp)
 - [2425. Bitwise XOR of All Pairings](src/2425.Bitwise-XOR-of-All-Pairings.cpp)
 - [2429. Minimize XOR](src/2429.Minimize-XOR.cpp)
+- [2435. Paths in Matrix Whose Sum Is Divisible by K](src/2435.Paths-in-Matrix-Whose-Sum-Is-Divisible-by-K.cpp)
 - [2438. Range Product Queries of Powers](src/2438.Range-Product-Queries-of-Powers.cpp)
 - [2460. Apply Operations to an Array](src/2460.Apply-Operations-to-an-Array.cpp)
 - [2461. Maximum Sum of Distinct Subarrays](src/2461.Maximum-Sum-of-Distinct-Subarrays.cpp)
