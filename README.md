@@ -210,6 +210,7 @@ The list is sorted by problem number.
 - [1550. Three Consecutive Odds](src/1550.Three-Consecutive-Odds.cpp)
 - [1578. Minimum Time to Make Rope Colorful](src/1578.Minimum-Time-to-Make-Rope-Colorful.cpp)
 - [1581. Customer Who Visited but Did Not Make Any Transactions](src/1581.Customer-Who-Visited-but-Did-Not-Make-Any-Transactions.sql)
+- [1590. Make Sum Divisible by P](src/1590.Make-Sum-Divisible-by-P.cpp)
 - [1611. Minimum One Bit Operations to Make Integers Zero](src/1611.Minimum-One-Bit-Operations-to-Make-Integers-Zero.cpp)
 - [1639. Number of Ways to Form a Target String Given a Dictionary](src/1639.Number-of-Ways-to-Form-a-Target-String-Given-a-Dictionary.cpp)
 - [1652. Defuse the Bomb](src/1652.Defuse-the-Bomb.cpp)
