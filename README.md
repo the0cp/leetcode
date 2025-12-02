@@ -385,5 +385,6 @@ The list is sorted by problem number.
 - [3541. Find Most Frequent Vowel and Consonant](src/3541.Find-Most-Frequent-Vowel-and-Consonant.cpp)
 - [3542. Minimum Operations to Convert All Elements to Zero](src/3542.Minimum-Operations-to-Convert-All-Elements-to-Zero.cpp)
 - [3607. Power Grid Maintenance](src/3607.Power-Grid-Maintenance.cpp)
+- [3623. Count Number of Trapezoids I](src/3623.Count-Number-of-Trapezoids-I.cpp)
 
 </details>
