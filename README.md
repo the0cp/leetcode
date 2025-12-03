@@ -386,5 +386,6 @@ The list is sorted by problem number.
 - [3542. Minimum Operations to Convert All Elements to Zero](src/3542.Minimum-Operations-to-Convert-All-Elements-to-Zero.cpp)
 - [3607. Power Grid Maintenance](src/3607.Power-Grid-Maintenance.cpp)
 - [3623. Count Number of Trapezoids I](src/3623.Count-Number-of-Trapezoids-I.cpp)
+- [3625. Count Number of Trapezoids II](src/3625.Count-Number-of-Trapezoids-II.cpp)
 
 </details>
