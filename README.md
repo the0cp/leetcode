@@ -386,6 +386,7 @@ The list is sorted by problem number.
 - [3512. Minimum Operations to Make Array Sum Divisible by K](src/3512.Minimum-Operations-to-Make-Array-Sum-Divisible-by-K.cpp)
 - [3541. Find Most Frequent Vowel and Consonant](src/3541.Find-Most-Frequent-Vowel-and-Consonant.cpp)
 - [3542. Minimum Operations to Convert All Elements to Zero](src/3542.Minimum-Operations-to-Convert-All-Elements-to-Zero.cpp)
+- [3578. Count Partitions With Max Min Difference at Most K](src/3578.Count-Partitions-With-Max-Min-Difference-at-Most-K.cpp)
 - [3607. Power Grid Maintenance](src/3607.Power-Grid-Maintenance.cpp)
 - [3623. Count Number of Trapezoids I](src/3623.Count-Number-of-Trapezoids-I.cpp)
 - [3625. Count Number of Trapezoids II](src/3625.Count-Number-of-Trapezoids-II.cpp)
