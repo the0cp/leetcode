@@ -386,6 +386,7 @@ The list is sorted by problem number.
 - [3488. Closest Equal Element Queries](src/3488.Closest-Equal-Element-Queries.cpp)
 - [3489. Zero Array Transformation IV](src/3489.Zero-Array-Transformation-IV.cpp)
 - [3512. Minimum Operations to Make Array Sum Divisible by K](src/3512.Minimum-Operations-to-Make-Array-Sum-Divisible-by-K.cpp)
+- [3531. Count Covered Buildings](src/3531.Count-Covered-Buildings.cpp)
 - [3541. Find Most Frequent Vowel and Consonant](src/3541.Find-Most-Frequent-Vowel-and-Consonant.cpp)
 - [3542. Minimum Operations to Convert All Elements to Zero](src/3542.Minimum-Operations-to-Convert-All-Elements-to-Zero.cpp)
 - [3577. Count the Number of Computer Unlocking Permutations](src/3577.Count-the-Number-of-Computer-Unlocking-Permutations.cpp)
