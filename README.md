@@ -376,6 +376,7 @@ The list is sorted by problem number.
 - [3418. Maximum Amount of Money Robot Can Earn](src/3418.Maximum-Amount-of-Money-Robot-Can-Earn.cpp)
 - [3423. Maximum Difference Between Adjacent Elements in a Circular Array](src/3423.Maximum-Difference-Between-Adjacent-Elements-in-a-Circular-Array.cpp)
 - [3432. Count Partitions with Even Sum Difference](src/3432.Count-Partitions-with-Even-Sum-Difference.cpp)
+- [3433. Count Mentions Per User](src/3433.Count-Mentions-Per-User.cpp)
 - [3442. Maximum Difference Between Even and Odd Frequency I](src/3442.Maximum-Difference-Between-Even-and-Odd-Frequency-I.cpp)
 - [3471. Find the Largest Almost Missing Integer](src/3471.Find-the-Largest-Almost-Missing-Integer.cpp)
 - [3472. Longest Palindromic Subsequence After at Most K Operations](src/3472.Longest-Palindromic-Subsequence-After-at-Most-K-Operations.cpp)
