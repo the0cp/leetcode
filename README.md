@@ -393,6 +393,7 @@ The list is sorted by problem number.
 - [3577. Count the Number of Computer Unlocking Permutations](src/3577.Count-the-Number-of-Computer-Unlocking-Permutations.cpp)
 - [3578. Count Partitions With Max Min Difference at Most K](src/3578.Count-Partitions-With-Max-Min-Difference-at-Most-K.cpp)
 - [3583. Count Special Triplets](src/3583.Count-Special-Triplets.cpp)
+- [3606. Coupon Code Validator](src/3606.Coupon-Code-Validator.cpp)
 - [3607. Power Grid Maintenance](src/3607.Power-Grid-Maintenance.cpp)
 - [3623. Count Number of Trapezoids I](src/3623.Count-Number-of-Trapezoids-I.cpp)
 - [3625. Count Number of Trapezoids II](src/3625.Count-Number-of-Trapezoids-II.cpp)
