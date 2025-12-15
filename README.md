@@ -255,6 +255,7 @@ The list is sorted by problem number.
 - [2095. Delete the Middle Node of a Linked List](src/2095.Delete-the-Middle-Node-of-a-Linked-List.cpp)
 - [2097. Valid Arrangement of Pairs](src/2097.Valid-Arrangement-of-Pairs.cpp)
 - [2109. Adding Spaces to a String](src/2109.Adding-Spaces-to-a-String.cpp)
+- [2110. Number of Smooth Descent Periods of a Stock](src/2110.Number-of-Smooth-Descent-Periods-of-a-Stock.cpp)
 - [2116. Check if a Parentheses String Can Be Valid](src/2116.Check-if-a-Parentheses-String-Can-Be-Valid.cpp)
 - [2125. Number of Laser Beams in a Bank](src/2125.Number-of-Laser-Beams-in-a-Bank.cpp)
 - [2127. Maximum Employees to Be Invited to a Meeting](src/2127.Maximum-Employees-to-Be-Invited-to-a-Meeting.cpp)
