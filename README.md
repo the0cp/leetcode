@@ -392,6 +392,7 @@ The list is sorted by problem number.
 - [3531. Count Covered Buildings](src/3531.Count-Covered-Buildings.cpp)
 - [3541. Find Most Frequent Vowel and Consonant](src/3541.Find-Most-Frequent-Vowel-and-Consonant.cpp)
 - [3542. Minimum Operations to Convert All Elements to Zero](src/3542.Minimum-Operations-to-Convert-All-Elements-to-Zero.cpp)
+- [3562. Maximum Profit from Trading Stocks with Discounts](src/3562.Maximum-Profit-from-Trading-Stocks-with-Discounts.cpp)
 - [3577. Count the Number of Computer Unlocking Permutations](src/3577.Count-the-Number-of-Computer-Unlocking-Permutations.cpp)
 - [3578. Count Partitions With Max Min Difference at Most K](src/3578.Count-Partitions-With-Max-Min-Difference-at-Most-K.cpp)
 - [3583. Count Special Triplets](src/3583.Count-Special-Triplets.cpp)
