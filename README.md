@@ -154,6 +154,7 @@ The list is sorted by problem number.
 - [931. Minimum Falling Path Sum](src/931.Minimum-Falling-Path-Sum.cpp)
 - [933. Number of Recent Calls](src/933.Number-of-Recent-Calls.cpp)
 - [944. Delete Columns to Make Sorted](src/944.Delete-Columns-to-Make-Sorted.cpp)
+- [960. Delete Columns to Make Sorted III](src/960.Delete-Columns-to-Make-Sorted-III.cpp)
 - [983. Minimum Cost For Tickets](src/983.Minimum-Cost-For-Tickets.cpp)
 - [994. Rotting Oranges](src/994.Rotting-Oranges.cpp)
 - [1004. Max Consecutive Ones III](src/1004.Max-Consecutive-Ones-III.cpp)
