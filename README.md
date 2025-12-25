@@ -344,6 +344,7 @@ The list is sorted by problem number.
 - [3042. Count Prefix and Suffix Pairs I](src/3042.Count-Prefix-and-Suffix-Pairs-I.cpp)
 - [3066. Minimum Operations to Exceed Threshold Value II](src/3066.Minimum-Operations-to-Exceed-Threshold-Value-II.cpp)
 - [3074. Apple Redistribution into Boxes](src/3074.Apple-Redistribution-into-Boxes.cpp)
+- [3075. Maximize Happiness of Selected Children](src/3075.Maximize-Happiness-of-Selected-Children.cpp)
 - [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](src/3105.Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray.cpp)
 - [3136. Valid Word](src/3136.Valid-Word.cpp)
 - [3151. Special Array I](src/3151.Special-Array-I.cpp)
