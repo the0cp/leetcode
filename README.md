@@ -303,6 +303,7 @@ The list is sorted by problem number.
 - [2466. Count Ways To Build Good Strings](src/2466.Count-Ways-To-Build-Good-Strings.cpp)
 - [2467. Most Profitable Path in a Tree](src/2467.Most-Profitable-Path-in-a-Tree.cpp)
 - [2471. Minimum Number of Operations to Sort a Binary Tree by Level](src/2471.Minimum-Number-of-Operations-to-Sort-a-Binary-Tree-by-Level.cpp)
+- [2483. Minimum Penalty for a Shop](src/2483.Minimum-Penalty-for-a-Shop.cpp)
 - [2493. Divide Nodes Into the Maximum Number of Groups](src/2493.Divide-Nodes-Into-the-Maximum-Number-of-Groups.cpp)
 - [2516. Take K of Each Character](src/2516.Take-K-of-Each-Character.cpp)
 - [2523. Closest Prime Numbers in Range](src/2523.Closest-Prime-Numbers-in-Range.cpp)
