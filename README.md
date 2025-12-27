@@ -292,6 +292,7 @@ The list is sorted by problem number.
 - [2381. Shifting Letters II](src/2381.Shifting-Letters-II.cpp)
 - [2390. Removing Stars From a String](src/2390.Removing-Stars-From-a-String.cpp)
 - [2401. Longest Nice Subarray](src/2401.Longest-Nice-Subarray.cpp)
+- [2402. Meeting Rooms III](src/2402.Meeting-Rooms-III.cpp)
 - [2415. Reverse Odd Levels of Binary Tree](src/2415.Reverse-Odd-Levels-of-Binary-Tree.cpp)
 - [2425. Bitwise XOR of All Pairings](src/2425.Bitwise-XOR-of-All-Pairings.cpp)
 - [2429. Minimize XOR](src/2429.Minimize-XOR.cpp)
