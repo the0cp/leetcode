@@ -186,6 +186,7 @@ The list is sorted by problem number.
 - [1312. Minimum Insertion Steps to Make a String Palindrome](src/1312.Minimum-Insertion-Steps-to-Make-a-String-Palindrome.cpp)
 - [1318. Minimum Flips to Make a OR b Equal to c](src/1318.Minimum-Flips-to-Make-a-OR-b-Equal-to-c.cpp)
 - [1346. Check If N and Its Double Exist](src/1346.Check-If-N-and-Its-Double-Exist.cpp)
+- [1351. Count Negative Numbers in a Sorted Matrix](src/1351.Count-Negative-Numbers-in-a-Sorted-Matrix.cpp)
 - [1352. Product of the Last K Numbers](src/1352.Product-of-the-Last-K-Numbers.cpp)
 - [1358. Number of Substrings Containing All Three Characters](src/1358.Number-of-Substrings-Containing-All-Three-Characters.cpp)
 - [1368. Minimum Cost to Make at Least One Valid Path in a Grid](src/1368.Minimum-Cost-to-Make-at-Least-One-Valid-Path-in-a-Grid.cpp)
