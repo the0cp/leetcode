@@ -136,6 +136,7 @@ The list is sorted by problem number.
 - [739. Daily Temperatures](src/739.Daily-Temperatures.cpp)
 - [740. Delete and Earn](src/740.Delete-and-Earn.cpp)
 - [746. Min Cost Climbing Stairs](src/746.Min-Cost-Climbing-Stairs.cpp)
+- [756. Pyramid Transition Matrix](src/756.Pyramid-Transition-Matrix.cpp)
 - [757. Set Intersection Size At Least Two](src/757.Set-Intersection-Size-At-Least-Two.cpp)
 - [769. Max Chunks To Make Sorted](src/769.Max-Chunks-To-Make-Sorted.cpp)
 - [773. Sliding Puzzle](src/773.Sliding-Puzzle.cpp)
