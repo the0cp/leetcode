@@ -199,6 +199,7 @@ The list is sorted by problem number.
 - [1399. Count Largest Group](src/1399.Count-Largest-Group.cpp)
 - [1400. Construct K Palindrome Strings](src/1400.Construct-K-Palindrome-Strings.cpp)
 - [1408. String Matching in an Array](src/1408.String-Matching-in-an-Array.cpp)
+- [1411. Number of Ways to Paint N × 3 Grid](src/1411.Number-of-Ways-to-Paint-N-×-3-Grid.cpp)
 - [1415. The kth Lexicographical String of All Happy Strings of Length n](src/1415.The-kth-Lexicographical-String-of-All-Happy-Strings-of-Length-n.cpp)
 - [1422. Maximum Score After Splitting a String](src/1422.Maximum-Score-After-Splitting-a-String.cpp)
 - [1431. Kids With the Greatest Number of Candies](src/1431.Kids-With-the-Greatest-Number-of-Candies.cpp)
