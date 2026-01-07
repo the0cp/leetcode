@@ -188,6 +188,7 @@ The list is sorted by problem number.
 - [1295. Find Numbers with Even Number of Digits](src/1295.Find-Numbers-with-Even-Number-of-Digits.cpp)
 - [1312. Minimum Insertion Steps to Make a String Palindrome](src/1312.Minimum-Insertion-Steps-to-Make-a-String-Palindrome.cpp)
 - [1318. Minimum Flips to Make a OR b Equal to c](src/1318.Minimum-Flips-to-Make-a-OR-b-Equal-to-c.cpp)
+- [1339. Maximum Product of Splitted Binary Tree](src/1339.Maximum-Product-of-Splitted-Binary-Tree.cpp)
 - [1346. Check If N and Its Double Exist](src/1346.Check-If-N-and-Its-Double-Exist.cpp)
 - [1351. Count Negative Numbers in a Sorted Matrix](src/1351.Count-Negative-Numbers-in-a-Sorted-Matrix.cpp)
 - [1352. Product of the Last K Numbers](src/1352.Product-of-the-Last-K-Numbers.cpp)
