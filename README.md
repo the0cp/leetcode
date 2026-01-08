@@ -209,6 +209,7 @@ The list is sorted by problem number.
 - [1448. Count Good Nodes in Binary Tree](src/1448.Count-Good-Nodes-in-Binary-Tree.cpp)
 - [1455. Check If a Word Occurs As a Prefix](src/1455.Check-If-a-Word-Occurs-As-a-Prefix.cpp)
 - [1456. Maximum Number of Vowels in a Substring of Given Length](src/1456.Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length.cpp)
+- [1458. Max Dot Product of Two Subsequences](src/1458.Max-Dot-Product-of-Two-Subsequences.cpp)
 - [1462. Course Schedule IV](src/1462.Course-Schedule-IV.cpp)
 - [1466. Reorder Routes to Make All Paths Lead to the City Zero](src/1466.Reorder-Routes-to-Make-All-Paths-Lead-to-the-City-Zero.cpp)
 - [1475. Final Prices With a Special Discount in a Shop](src/1475.Final-Prices-With-a-Special-Discount-in-a-Shop.cpp)
