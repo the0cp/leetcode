@@ -36,6 +36,7 @@ The list is sorted by problem number.
 - [70. Climbing Stairs](src/70.Climbing-Stairs.cpp)
 - [72. Edit Distance](src/72.Edit-Distance.cpp)
 - [76. Minimum Window Substring](src/76.Minimum-Window-Substring.cpp)
+- [84. Largest Rectangle in Histogram](src/84.Largest-Rectangle-in-Histogram.cpp)
 - [85. Maximal Rectangle](src/85.Maximal-Rectangle.cpp)
 - [88. Merge Sorted Array](src/88.Merge-Sorted-Array.cpp)
 - [91. Decode Ways](src/91.Decode-Ways.cpp)
