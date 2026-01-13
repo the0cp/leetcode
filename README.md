@@ -398,6 +398,7 @@ The list is sorted by problem number.
 - [3432. Count Partitions with Even Sum Difference](src/3432.Count-Partitions-with-Even-Sum-Difference.cpp)
 - [3433. Count Mentions Per User](src/3433.Count-Mentions-Per-User.cpp)
 - [3442. Maximum Difference Between Even and Odd Frequency I](src/3442.Maximum-Difference-Between-Even-and-Odd-Frequency-I.cpp)
+- [3453. Separate Squares I](src/3453.Separate-Squares-I.cpp)
 - [3471. Find the Largest Almost Missing Integer](src/3471.Find-the-Largest-Almost-Missing-Integer.cpp)
 - [3472. Longest Palindromic Subsequence After at Most K Operations](src/3472.Longest-Palindromic-Subsequence-After-at-Most-K-Operations.cpp)
 - [3473. Sum of K Subarrays With Length at Least M](src/3473.Sum-of-K-Subarrays-With-Length-at-Least-M.cpp)
