@@ -24,7 +24,7 @@ def main():
             files.append((number, title, filename))
     files.sort()
     
-    with open(output_file, "w") as f:
+    with open(output_file, "w", encoding="utf-8") as f:
         f.write(f"# Leetcode Solutions\n\nC++/Shell/SQL source code of solved LeetCode problems.\n\n## List\n\nThe list is sorted by problem number.\n\n<details>\n\n<summary>Expand Solution List</summary>\n\n")
         for number, title, filename in files:
             f.write(f"- [{title}](src/{filename})\n")
