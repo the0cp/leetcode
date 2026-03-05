@@ -243,6 +243,7 @@ The list is sorted by problem number.
 - [1749. Maximum Absolute Sum of Any Subarray](src/1749.Maximum-Absolute-Sum-of-Any-Subarray.cpp)
 - [1752. Check if Array Is Sorted and Rotated](src/1752.Check-if-Array-Is-Sorted-and-Rotated.cpp)
 - [1757. Recyclable and Low Fat Products](src/1757.Recyclable-and-Low-Fat-Products.sql)
+- [1758. Minimum Changes To Make Alternating Binary String](src/1758.Minimum-Changes-To-Make-Alternating-Binary-String.cpp)
 - [1760. Minimum Limit of Balls in a Bag](src/1760.Minimum-Limit-of-Balls-in-a-Bag.cpp)
 - [1765. Map of Highest Peak](src/1765.Map-of-Highest-Peak.cpp)
 - [1768. Merge Strings Alternately](src/1768.Merge-Strings-Alternately.cpp)
