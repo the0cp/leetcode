@@ -256,6 +256,7 @@ The list is sorted by problem number.
 - [1857. Largest Color Value in a Directed Graph](src/1857.Largest-Color-Value-in-a-Directed-Graph.cpp)
 - [1861. Rotating the Box](src/1861.Rotating-the-Box.cpp)
 - [1863. Sum of All Subset XOR Totals](src/1863.Sum-of-All-Subset-XOR-Totals.cpp)
+- [1888. Minimum Number of Flips to Make the Binary String Alternating](src/1888.Minimum-Number-of-Flips-to-Make-the-Binary-String-Alternating.cpp)
 - [1910. Remove All Occurrences of a Substring](src/1910.Remove-All-Occurrences-of-a-Substring.cpp)
 - [1920. Build Array from Permutation](src/1920.Build-Array-from-Permutation.cpp)
 - [1925. Count Square Sum Triples](src/1925.Count-Square-Sum-Triples.cpp)
