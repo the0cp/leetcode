@@ -366,6 +366,7 @@ The list is sorted by problem number.
 - [3074. Apple Redistribution into Boxes](src/3074.Apple-Redistribution-into-Boxes.cpp)
 - [3075. Maximize Happiness of Selected Children](src/3075.Maximize-Happiness-of-Selected-Children.cpp)
 - [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](src/3105.Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray.cpp)
+- [3129. Find All Possible Stable Binary Arrays I](src/3129.Find-All-Possible-Stable-Binary-Arrays-I.cpp)
 - [3136. Valid Word](src/3136.Valid-Word.cpp)
 - [3151. Special Array I](src/3151.Special-Array-I.cpp)
 - [3152. Special Array II](src/3152.Special-Array-II.cpp)
