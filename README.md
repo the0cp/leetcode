@@ -163,6 +163,7 @@ The list is sorted by problem number.
 - [983. Minimum Cost For Tickets](src/983.Minimum-Cost-For-Tickets.cpp)
 - [994. Rotting Oranges](src/994.Rotting-Oranges.cpp)
 - [1004. Max Consecutive Ones III](src/1004.Max-Consecutive-Ones-III.cpp)
+- [1009. Complement of Base 10 Integer](src/1009.Complement-of-Base-10-Integer.cpp)
 - [1014. Best Sightseeing Pair](src/1014.Best-Sightseeing-Pair.cpp)
 - [1015. Smallest Integer Divisible by K](src/1015.Smallest-Integer-Divisible-by-K.cpp)
 - [1018. Binary Prefix Divisible By 5](src/1018.Binary-Prefix-Divisible-By-5.cpp)
