@@ -430,6 +430,7 @@ The list is sorted by problem number.
 - [3607. Power Grid Maintenance](src/3607.Power-Grid-Maintenance.cpp)
 - [3623. Count Number of Trapezoids I](src/3623.Count-Number-of-Trapezoids-I.cpp)
 - [3625. Count Number of Trapezoids II](src/3625.Count-Number-of-Trapezoids-II.cpp)
+- [3643. Flip Square Submatrix Vertically](src/3643.Flip-Square-Submatrix-Vertically.cpp)
 - [3650. Minimum Cost Path with Edge Reversals](src/3650.Minimum-Cost-Path-with-Edge-Reversals.cpp)
 - [3652. Best Time to Buy and Sell Stock using Strategy](src/3652.Best-Time-to-Buy-and-Sell-Stock-using-Strategy.cpp)
 
