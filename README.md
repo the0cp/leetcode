@@ -18,6 +18,7 @@ The list is sorted by problem number.
 - [13. Roman to Integer](src/13.Roman-to-Integer.cpp)
 - [14. Longest Common Prefix](src/14.Longest-Common-Prefix.cpp)
 - [17. Letter Combinations of a Phone Number](src/17.Letter-Combinations-of-a-Phone-Number.cpp)
+- [25. Reverse Nodes in k Group](src/25.Reverse-Nodes-in-k-Group.cpp)
 - [26. Remove Duplicates from Sorted Array](src/26.Remove-Duplicates-from-Sorted-Array.cpp)
 - [27. Remove Element](src/27.Remove-Element.cpp)
 - [28. Find the Index of the First Occurrence in a String](src/28.Find-the-Index-of-the-First-Occurrence-in-a-String.cpp)
