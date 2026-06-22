@@ -183,6 +183,7 @@ The list is sorted by problem number.
 - [1143. Longest Common Subsequence](src/1143.Longest-Common-Subsequence.cpp)
 - [1148. Article Views I](src/1148.Article-Views-I.sql)
 - [1161. Maximum Level Sum of a Binary Tree](src/1161.Maximum-Level-Sum-of-a-Binary-Tree.cpp)
+- [1189. Maximum Number of Balloons](src/1189.Maximum-Number-of-Balloons.cpp)
 - [1207. Unique Number of Occurrences](src/1207.Unique-Number-of-Occurrences.cpp)
 - [1218. Longest Arithmetic Subsequence of Given Difference](src/1218.Longest-Arithmetic-Subsequence-of-Given-Difference.cpp)
 - [1261. Find Elements in a Contaminated Binary Tree](src/1261.Find-Elements-in-a-Contaminated-Binary-Tree.cpp)
