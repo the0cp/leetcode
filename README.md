@@ -163,6 +163,7 @@ The list is sorted by problem number.
 - [916. Word Subsets](src/916.Word-Subsets.cpp)
 - [931. Minimum Falling Path Sum](src/931.Minimum-Falling-Path-Sum.cpp)
 - [933. Number of Recent Calls](src/933.Number-of-Recent-Calls.cpp)
+- [940. Distinct Subsequences II](src/940.Distinct-Subsequences-II.cpp)
 - [944. Delete Columns to Make Sorted](src/944.Delete-Columns-to-Make-Sorted.cpp)
 - [960. Delete Columns to Make Sorted III](src/960.Delete-Columns-to-Make-Sorted-III.cpp)
 - [961. N Repeated Element in Size 2N Array](src/961.N-Repeated-Element-in-Size-2N-Array.cpp)
