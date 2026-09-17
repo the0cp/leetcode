@@ -228,6 +228,7 @@ The list is sorted by problem number.
 - [1462. Course Schedule IV](src/1462.Course-Schedule-IV.cpp)
 - [1466. Reorder Routes to Make All Paths Lead to the City Zero](src/1466.Reorder-Routes-to-Make-All-Paths-Lead-to-the-City-Zero.cpp)
 - [1475. Final Prices With a Special Discount in a Shop](src/1475.Final-Prices-With-a-Special-Discount-in-a-Shop.cpp)
+- [1477. Find Two Non overlapping Sub arrays Each With Target Sum](src/1477.Find-Two-Non-overlapping-Sub-arrays-Each-With-Target-Sum.cpp)
 - [1493. Longest Subarray of 1s After Deleting One Element](src/1493.Longest-Subarray-of-1s-After-Deleting-One-Element.cpp)
 - [1513. Number of Substrings With Only 1s](src/1513.Number-of-Substrings-With-Only-1s.cpp)
 - [1523. Count Odd Numbers in an Interval Range](src/1523.Count-Odd-Numbers-in-an-Interval-Range.cpp)
