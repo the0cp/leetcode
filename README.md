@@ -434,6 +434,7 @@ The list is sorted by problem number.
 - [3531. Count Covered Buildings](src/3531.Count-Covered-Buildings.cpp)
 - [3541. Find Most Frequent Vowel and Consonant](src/3541.Find-Most-Frequent-Vowel-and-Consonant.cpp)
 - [3542. Minimum Operations to Convert All Elements to Zero](src/3542.Minimum-Operations-to-Convert-All-Elements-to-Zero.cpp)
+- [3550. Smallest Index With Digit Sum Equal to Index](src/3550.Smallest-Index-With-Digit-Sum-Equal-to-Index.cpp)
 - [3562. Maximum Profit from Trading Stocks with Discounts](src/3562.Maximum-Profit-from-Trading-Stocks-with-Discounts.cpp)
 - [3573. Best Time to Buy and Sell Stock V](src/3573.Best-Time-to-Buy-and-Sell-Stock-V.cpp)
 - [3577. Count the Number of Computer Unlocking Permutations](src/3577.Count-the-Number-of-Computer-Unlocking-Permutations.cpp)
