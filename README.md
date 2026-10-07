@@ -88,6 +88,7 @@ The list is sorted by problem number.
 - [279. Perfect Squares](src/279.Perfect-Squares.cpp)
 - [283. Move Zeroes](src/283.Move-Zeroes.cpp)
 - [300. Longest Increasing Subsequence](src/300.Longest-Increasing-Subsequence.cpp)
+- [301. Remove Invalid Parentheses](src/301.Remove-Invalid-Parentheses.cpp)
 - [309. Best Time to Buy and Sell Stock with Cooldown](src/309.Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.cpp)
 - [322. Coin Change](src/322.Coin-Change.cpp)
 - [328. Odd Even Linked List](src/328.Odd-Even-Linked-List.cpp)
