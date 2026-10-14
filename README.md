@@ -448,5 +448,6 @@ The list is sorted by problem number.
 - [3643. Flip Square Submatrix Vertically](src/3643.Flip-Square-Submatrix-Vertically.cpp)
 - [3650. Minimum Cost Path with Edge Reversals](src/3650.Minimum-Cost-Path-with-Edge-Reversals.cpp)
 - [3652. Best Time to Buy and Sell Stock using Strategy](src/3652.Best-Time-to-Buy-and-Sell-Stock-using-Strategy.cpp)
+- [3723. Maximize Sum of Squares of Digits](src/3723.Maximize-Sum-of-Squares-of-Digits.cpp)
 
 </details>
