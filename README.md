@@ -109,6 +109,7 @@ The list is sorted by problem number.
 - [407. Trapping Rain Water II](src/407.Trapping-Rain-Water-II.cpp)
 - [415. Add Strings](src/415.Add-Strings.cpp)
 - [416. Partition Equal Subset Sum](src/416.Partition-Equal-Subset-Sum.cpp)
+- [421. Maximum XOR of Two Numbers in an Array](src/421.Maximum-XOR-of-Two-Numbers-in-an-Array.cpp)
 - [435. Non overlapping Intervals](src/435.Non-overlapping-Intervals.cpp)
 - [437. Path Sum III](src/437.Path-Sum-III.cpp)
 - [443. String Compression](src/443.String-Compression.cpp)
