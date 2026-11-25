@@ -452,5 +452,6 @@ The list is sorted by problem number.
 - [3652. Best Time to Buy and Sell Stock using Strategy](src/3652.Best-Time-to-Buy-and-Sell-Stock-using-Strategy.cpp)
 - [3693. Climbing Stairs II](src/3693.Climbing-Stairs-II.cpp)
 - [3723. Maximize Sum of Squares of Digits](src/3723.Maximize-Sum-of-Squares-of-Digits.cpp)
+- [3934. Smallest Unique Subarray](src/3934.Smallest-Unique-Subarray.cpp)
 
 </details>
